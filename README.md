@@ -4,7 +4,7 @@ An interactive Tableau dashboard analyzing Neymar Jr.'s goals across different y
 
 ## Dashboard Preview
 
-![Neymar Jr. Goals Dashboard](images/neymar-goals-dashboard.png)
+![Neymar Jr. Goals Dashboard](neymar-goals-dashboard.png)
 
 ## Dashboard Highlights
 
