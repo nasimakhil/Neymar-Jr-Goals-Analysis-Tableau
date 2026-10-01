@@ -1,0 +1,378 @@
+﻿Goal_ID,Date,Year,Month_No,Tournament,Matchday_No,Stage,Competition_Type,Venue,Club,Opponent,Match_ID,Final_Score_Home_Away,Team_Goals,Opponent_Goals,Match_Outcome,Score_After_Goal_Team,Score_After_Goal_Opp,Minute,Stoppage_Min,Period,Minute_Band,Position,Goal_Type,Is_Penalty,Assist_By,Goals
+1,2009-03-16,2009,3,Campeonato Paulista,14.0,League Matchday,State League,Home,Santos FC,Mogi Mirim EC,20090316_MogiMirimEC,3:0,3,0,Win,3,0,73,0,2nd Half,61-75,LW,Unknown,0,Unassisted,1
+2,2009-03-19,2009,3,Copa do Brasil,,First Round,Domestic Cup / Super Cup,Home,Santos FC,Rio Branco Football Club (AC),20090319_RioBrancoFoo,4:0,4,0,Win,1,0,59,0,2nd Half,46-60,Unknown,Unknown,0,Unassisted,1
+3,2009-03-26,2009,3,Campeonato Paulista,16.0,League Matchday,State League,Home,Santos FC,EC Santo André,20090326_ECSantoAndré,3:0,3,0,Win,3,0,66,0,2nd Half,61-75,Unknown,Unknown,0,Unassisted,1
+4,2009-04-11,2009,4,Campeonato Paulista (Final Phase),,Semi-Finals,State League,Home,Santos FC,Sociedade Esportiva Palmeiras,20090411_SociedadeEsp,2:1,2,1,Win,2,1,46,0,2nd Half,46-60,Unknown,Unknown,0,Unassisted,1
+5,2009-06-21,2009,6,Série A,7.0,League Matchday,League,Home,Santos FC,Clube Atlético Mineiro,20090621_ClubeAtlétic,2:3,2,3,Loss,1,0,45,0,1st Half,31-45,Unknown,Left-footed shot,0,Unassisted,1
+6,2009-07-15,2009,7,Série A,11.0,League Matchday,League,Home,Santos FC,Grêmio Barueri Futebol Ltda.,20090715_GrêmioBaruer,3:3,3,3,Draw,3,3,88,0,2nd Half,76-90,Unknown,Header,0,Luizinho,1
+7,2009-07-22,2009,7,Série A,13.0,League Matchday,League,Home,Santos FC,Atlético Paranaense,20090722_AtléticoPara,1:0,1,0,Win,1,0,72,0,2nd Half,61-75,Unknown,Left-footed shot,0,Roni,1
+8,2009-07-29,2009,7,Série A,15.0,League Matchday,League,Away,Santos FC,Clube Náutico Capibaribe,20090729_ClubeNáutico,1:2,2,1,Win,1,0,67,0,2nd Half,61-75,Unknown,Header,0,Madson,1
+9,2009-11-07,2009,11,Série A,34.0,League Matchday,League,Home,Santos FC,Clube Náutico Capibaribe,20091107_ClubeNáutico,3:1,3,1,Win,2,0,58,0,2nd Half,46-60,Unknown,Right-footed shot,0,Madson,1
+10,2009-11-07,2009,11,Série A,34.0,League Matchday,League,Home,Santos FC,Clube Náutico Capibaribe,20091107_ClubeNáutico,3:1,3,1,Win,3,1,89,0,2nd Half,76-90,Unknown,Left-footed shot,0,Madson,1
+11,2009-11-15,2009,11,Série A,35.0,League Matchday,League,Away,Santos FC,Sport Club Internacional,20091115_SportClubInt,3:1,1,3,Loss,1,2,63,0,2nd Half,61-75,Unknown,Right-footed shot,0,Felipe Azevedo,1
+12,2009-11-22,2009,11,Série A,36.0,League Matchday,League,Home,Santos FC,Coritiba Foot Ball Club,20091122_CoritibaFoot,4:0,4,0,Win,3,0,64,0,2nd Half,61-75,Unknown,Left-footed shot,0,Madson,1
+13,2009-11-22,2009,11,Série A,36.0,League Matchday,League,Home,Santos FC,Coritiba Foot Ball Club,20091122_CoritibaFoot,4:0,4,0,Win,4,0,88,0,2nd Half,76-90,Unknown,Right-footed shot,0,Ganso,1
+14,2009-12-06,2009,12,Série A,38.0,League Matchday,League,Home,Santos FC,Cruzeiro Esporte Clube,20091206_CruzeiroEspo,1:2,1,2,Loss,1,1,70,0,2nd Half,61-75,Unknown,Right-footed shot,0,Unassisted,1
+15,2010-01-18,2010,1,Campeonato Paulista,1.0,League Matchday,State League,Away,Santos FC,Rio Branco EC (SP),20100118_RioBrancoECS,0:4,4,0,Win,2,0,20,0,1st Half,16-30,Unknown,Unknown,0,Ganso,1
+16,2010-01-18,2010,1,Campeonato Paulista,1.0,League Matchday,State League,Away,Santos FC,Rio Branco EC (SP),20100118_RioBrancoECS,0:4,4,0,Win,4,0,89,0,2nd Half,76-90,Unknown,Unknown,0,Bruno Aguiar,1
+17,2010-01-28,2010,1,Campeonato Paulista,4.0,League Matchday,State League,Home,Santos FC,Grêmio Barueri Futebol Ltda.,20100128_GrêmioBaruer,5:0,5,0,Win,4,0,78,0,2nd Half,76-90,Unknown,Unknown,0,Unassisted,1
+18,2010-01-28,2010,1,Campeonato Paulista,4.0,League Matchday,State League,Home,Santos FC,Grêmio Barueri Futebol Ltda.,20100128_GrêmioBaruer,5:0,5,0,Win,5,0,86,0,2nd Half,76-90,Unknown,Penalty,1,Unassisted,1
+19,2010-01-31,2010,1,Campeonato Paulista,5.0,League Matchday,State League,Home,Santos FC,Oeste FC,20100131_OesteFC,2:0,2,0,Win,2,0,90,2,2nd Half,76-90,Unknown,Unknown,0,Madson,1
+20,2010-02-05,2010,2,Campeonato Paulista,6.0,League Matchday,State League,Away,Santos FC,EC Santo André,20100205_ECSantoAndré,1:2,2,1,Win,1,0,24,0,1st Half,16-30,Unknown,Unknown,0,Unassisted,1
+21,2010-02-07,2010,2,Campeonato Paulista,7.0,League Matchday,State League,Away,Santos FC,São Paulo Futebol Clube,20100207_SãoPauloFute,1:2,2,1,Win,1,0,38,0,1st Half,31-45,Unknown,Penalty,1,Unassisted,1
+22,2010-02-28,2010,2,Campeonato Paulista,11.0,League Matchday,State League,Home,Santos FC,Sport Club Corinthians Paulista,20100228_SportClubCor,2:1,2,1,Win,1,0,33,0,1st Half,31-45,Unknown,Right-footed shot,0,Marquinhos,1
+23,2010-03-11,2010,3,Copa do Brasil,,First Round,Domestic Cup / Super Cup,Home,Santos FC,Clube Esportivo Naviraiense (MS),20100311_ClubeEsporti,10:0,10,0,Win,3,0,28,0,1st Half,16-30,Unknown,Solo run,0,Robinho,1
+24,2010-03-11,2010,3,Copa do Brasil,,First Round,Domestic Cup / Super Cup,Home,Santos FC,Clube Esportivo Naviraiense (MS),20100311_ClubeEsporti,10:0,10,0,Win,7,0,54,0,2nd Half,46-60,Unknown,Solo run,0,Giovanni,1
+25,2010-03-14,2010,3,Campeonato Paulista,14.0,League Matchday,State League,Home,Santos FC,Sociedade Esportiva Palmeiras,20100314_SociedadeEsp,3:4,3,4,Loss,2,0,30,0,1st Half,16-30,Unknown,Unknown,0,Ganso,1
+26,2010-03-19,2010,3,Copa do Brasil,,Second Round,Domestic Cup / Super Cup,Away,Santos FC,Clube do Remo (PA),20100319_ClubedoRemoP,0:4,4,0,Win,1,0,21,0,1st Half,16-30,Unknown,Unknown,0,Marquinhos,1
+27,2010-03-19,2010,3,Copa do Brasil,,Second Round,Domestic Cup / Super Cup,Away,Santos FC,Clube do Remo (PA),20100319_ClubedoRemoP,0:4,4,0,Win,4,0,81,0,2nd Half,76-90,Unknown,Penalty,1,Unassisted,1
+28,2010-04-04,2010,4,Campeonato Paulista,18.0,League Matchday,State League,Away,Santos FC,AD São Caetano (SP),20100404_ADSãoCaetano,1:3,3,1,Win,2,1,67,0,2nd Half,61-75,Unknown,Unknown,0,Unassisted,1
+29,2010-04-15,2010,4,Copa do Brasil,,Round of 16,Domestic Cup / Super Cup,Home,Santos FC,Guarani Futebol Clube (SP),20100415_GuaraniFuteb,8:1,8,1,Win,1,0,2,0,1st Half,1-15,Unknown,Penalty,1,Unassisted,1
+30,2010-04-15,2010,4,Copa do Brasil,,Round of 16,Domestic Cup / Super Cup,Home,Santos FC,Guarani Futebol Clube (SP),20100415_GuaraniFuteb,8:1,8,1,Win,2,0,29,0,1st Half,16-30,Unknown,Left-footed shot,0,Unassisted,1
+31,2010-04-15,2010,4,Copa do Brasil,,Round of 16,Domestic Cup / Super Cup,Home,Santos FC,Guarani Futebol Clube (SP),20100415_GuaraniFuteb,8:1,8,1,Win,4,0,38,0,1st Half,31-45,Unknown,Left-footed shot,0,Arouca,1
+32,2010-04-15,2010,4,Copa do Brasil,,Round of 16,Domestic Cup / Super Cup,Home,Santos FC,Guarani Futebol Clube (SP),20100415_GuaraniFuteb,8:1,8,1,Win,7,1,81,0,2nd Half,76-90,Unknown,Right-footed shot,0,Robinho,1
+33,2010-04-15,2010,4,Copa do Brasil,,Round of 16,Domestic Cup / Super Cup,Home,Santos FC,Guarani Futebol Clube (SP),20100415_GuaraniFuteb,8:1,8,1,Win,8,1,84,0,2nd Half,76-90,Unknown,Right-footed shot,0,Robinho,1
+34,2010-04-18,2010,4,Campeonato Paulista (Final Phase),,Semi-Finals,State League,Home,Santos FC,São Paulo Futebol Clube,20100418_SãoPauloFute,3:0,3,0,Win,1,0,59,0,2nd Half,46-60,Unknown,Unknown,0,Unassisted,1
+35,2010-04-18,2010,4,Campeonato Paulista (Final Phase),,Semi-Finals,State League,Home,Santos FC,São Paulo Futebol Clube,20100418_SãoPauloFute,3:0,3,0,Win,2,0,84,0,2nd Half,76-90,Unknown,Penalty,1,Unassisted,1
+36,2010-04-25,2010,4,Campeonato Paulista (Final Phase),,Final,State League,Home,Santos FC,EC Santo André,20100425_ECSantoAndré,2:3,2,3,Loss,1,1,7,0,1st Half,1-15,Unknown,Unknown,0,Unassisted,1
+37,2010-04-25,2010,4,Campeonato Paulista (Final Phase),,Final,State League,Home,Santos FC,EC Santo André,20100425_ECSantoAndré,2:3,2,3,Loss,2,2,32,0,1st Half,31-45,Unknown,Unknown,0,Unassisted,1
+38,2010-05-06,2010,5,Copa do Brasil,,Quarter-Finals,Domestic Cup / Super Cup,Home,Santos FC,Clube Atlético Mineiro,20100506_ClubeAtlétic,3:1,3,1,Win,2,0,44,0,1st Half,31-45,Unknown,Unknown,0,Unassisted,1
+39,2010-05-08,2010,5,Série A,1.0,League Matchday,League,Away,Santos FC,Botafogo de Futebol e Regatas,20100508_BotafogodeFu,3:3,3,3,Draw,1,1,29,0,1st Half,16-30,Unknown,Right-footed shot,0,Marquinhos,1
+40,2010-05-16,2010,5,Série A,2.0,League Matchday,League,Home,Santos FC,Ceará Sporting Club,20100516_CearáSportin,1:1,1,1,Draw,1,1,38,0,1st Half,31-45,Unknown,Penalty,1,Unassisted,1
+41,2010-05-26,2010,5,Série A,4.0,League Matchday,League,Home,Santos FC,Guarani Futebol Clube (SP),20100526_GuaraniFuteb,3:1,3,1,Win,1,0,2,0,1st Half,1-15,Unknown,Right-footed shot,0,Ganso,1
+42,2010-07-29,2010,7,Copa do Brasil,,Final,Domestic Cup / Super Cup,Home,Santos FC,Esporte Clube Vitória,20100729_EsporteClube,2:0,2,0,Win,1,0,14,0,1st Half,1-15,Unknown,Chest,0,Pará,1
+43,2010-08-22,2010,8,Série A,15.0,League Matchday,League,Home,Santos FC,Clube Atlético Mineiro,20100822_ClubeAtlétic,2:0,2,0,Win,1,0,55,0,2nd Half,46-60,Unknown,Penalty,1,Unassisted,1
+44,2010-08-25,2010,8,Série A,16.0,League Matchday,League,Away,Santos FC,Grêmio Foot-Ball Porto Alegrense,20100825_GrêmioFootBa,1:2,2,1,Win,1,1,68,0,2nd Half,61-75,Unknown,Penalty,1,Unassisted,1
+45,2010-09-02,2010,9,Série A,18.0,League Matchday,League,Home,Santos FC,Avaí FC,20100902_AvaíFC,2:1,2,1,Win,1,0,1,0,1st Half,1-15,Unknown,Right-footed shot,0,Unassisted,1
+46,2010-09-22,2010,9,Série A,24.0,League Matchday,League,Home,Santos FC,Sport Club Corinthians Paulista,20100922_SportClubCor,2:3,2,3,Loss,2,1,27,0,1st Half,16-30,Unknown,Tap-in,0,Marcel,1
+47,2010-09-25,2010,9,Série A,25.0,League Matchday,League,Home,Santos FC,Cruzeiro Esporte Clube,20100925_CruzeiroEspo,4:1,4,1,Win,4,1,90,1,2nd Half,76-90,Unknown,Right-footed shot,0,Unassisted,1
+48,2010-10-13,2010,10,Série A,13.0,League Matchday,League,Home,Santos FC,Sport Club Internacional,20101013_SportClubInt,1:0,1,0,Win,1,0,27,0,1st Half,16-30,Unknown,Left-footed shot,0,Danilo,1
+49,2010-10-17,2010,10,Série A,30.0,League Matchday,League,Away,Santos FC,São Paulo Futebol Clube,20101017_SãoPauloFute,4:3,3,4,Loss,3,3,70,0,2nd Half,61-75,Unknown,Penalty,1,Unassisted,1
+50,2010-11-03,2010,11,Série A,33.0,League Matchday,League,Home,Santos FC,Esporte Clube Vitória,20101103_EsporteClube,1:1,1,1,Draw,1,0,33,0,1st Half,31-45,Unknown,Right-footed shot,0,Marquinhos,1
+51,2010-11-07,2010,11,Série A,34.0,League Matchday,League,Away,Santos FC,Clube Atlético Mineiro,20101107_ClubeAtlétic,2:2,2,2,Draw,1,0,17,0,1st Half,16-30,Unknown,Right-footed shot,0,Unassisted,1
+52,2010-11-07,2010,11,Série A,34.0,League Matchday,League,Away,Santos FC,Clube Atlético Mineiro,20101107_ClubeAtlétic,2:2,2,2,Draw,2,2,67,0,2nd Half,61-75,Unknown,Right-footed shot,0,Unassisted,1
+53,2010-11-21,2010,11,Série A,36.0,League Matchday,League,Away,Santos FC,Goiás EC,20101121_GoiásEC,1:4,4,1,Win,2,1,75,0,2nd Half,61-75,Unknown,Penalty,1,Unassisted,1
+54,2010-11-21,2010,11,Série A,36.0,League Matchday,League,Away,Santos FC,Goiás EC,20101121_GoiásEC,1:4,4,1,Win,3,1,79,0,2nd Half,76-90,Unknown,Right-footed shot,0,Unassisted,1
+55,2010-11-21,2010,11,Série A,36.0,League Matchday,League,Away,Santos FC,Goiás EC,20101121_GoiásEC,1:4,4,1,Win,4,1,82,0,2nd Half,76-90,Unknown,Right-footed shot,0,Felipe Anderson,1
+56,2010-11-28,2010,11,Série A,37.0,League Matchday,League,Away,Santos FC,Avaí FC,20101128_AvaíFC,3:2,2,3,Loss,2,0,32,0,1st Half,31-45,Unknown,Right-footed shot,0,Arouca,1
+57,2011-03-10,2011,3,Campeonato Paulista,12.0,League Matchday,State League,Home,Santos FC,Portuguesa,20110310_Portuguesa,3:0,3,0,Win,1,0,41,0,1st Half,31-45,Unknown,Left-footed shot,0,Elano,1
+58,2011-03-10,2011,3,Campeonato Paulista,12.0,League Matchday,State League,Home,Santos FC,Portuguesa,20110310_Portuguesa,3:0,3,0,Win,2,0,50,0,2nd Half,46-60,Unknown,Right-footed shot,0,Edú Dracena,1
+59,2011-03-17,2011,3,Libertadores,,Group Stage,Continental / International,Away,Santos FC,CSD Colo-Colo,20110317_CSDColoColo,3:2,2,3,Loss,2,3,49,0,2nd Half,46-60,LW,Left-footed shot,0,Ganso,1
+60,2011-04-07,2011,4,Libertadores,,Group Stage,Continental / International,Home,Santos FC,CSD Colo-Colo,20110407_CSDColoColo,3:2,3,2,Win,3,0,52,0,2nd Half,46-60,LW,Left-footed shot,0,Unassisted,1
+61,2011-04-20,2011,4,Libertadores,,Group Stage,Continental / International,Home,Santos FC,Deportivo Táchira,20110420_DeportivoTác,3:1,3,1,Win,1,0,4,0,1st Half,1-15,SS,Right-footed shot,0,Léo,1
+62,2011-04-23,2011,4,Campeonato Paulista (Final Phase),,Quarter-Finals,State League,Home,Santos FC,Associação Atlética Ponte Preta,20110423_AssociaçãoAt,1:0,1,0,Win,1,0,21,0,1st Half,16-30,Unknown,Left-footed shot,0,Elano,1
+63,2011-05-15,2011,5,Campeonato Paulista (Final Phase),,Final,State League,Home,Santos FC,Sport Club Corinthians Paulista,20110515_SportClubCor,2:1,2,1,Win,2,0,83,0,2nd Half,76-90,Unknown,Right-footed shot,0,Zé Love,1
+64,2011-05-19,2011,5,Libertadores,,Quarter-Finals,Continental / International,Home,Santos FC,Once Caldas,20110519_OnceCaldas,1:1,1,1,Draw,1,0,11,0,1st Half,1-15,SS,Unknown,0,Unassisted,1
+65,2011-06-02,2011,6,Libertadores,,Semi-Finals,Continental / International,Away,Santos FC,Club Cerro Porteño,20110602_ClubCerroPor,3:3,3,3,Draw,3,1,45,2,1st Half,31-45,SS,Right-footed shot,0,Arouca,1
+66,2011-06-23,2011,6,Libertadores,,Final,Continental / International,Home,Santos FC,CA Peñarol,20110623_CAPeñarol,2:1,2,1,Win,1,0,47,0,2nd Half,46-60,SS,Right-footed shot,0,Arouca,1
+67,2011-07-27,2011,7,Série A,12.0,League Matchday,League,Home,Santos FC,CR Flamengo,20110727_CRFlamengo,4:5,4,5,Loss,3,0,26,0,1st Half,16-30,SS,Right-footed shot,0,Borges,1
+68,2011-07-27,2011,7,Série A,12.0,League Matchday,League,Home,Santos FC,CR Flamengo,20110727_CRFlamengo,4:5,4,5,Loss,4,3,51,0,2nd Half,46-60,SS,Right-footed shot,0,Léo,1
+69,2011-07-31,2011,7,Série A,13.0,League Matchday,League,Away,Santos FC,Atlético Paranaense,20110731_AtléticoPara,3:2,2,3,Loss,1,2,13,0,1st Half,1-15,Unknown,Left-footed shot,0,Unassisted,1
+70,2011-08-21,2011,8,Série A,18.0,League Matchday,League,Away,Santos FC,Esporte Clube Bahia,20110821_EsporteClube,1:2,2,1,Win,1,0,3,0,1st Half,1-15,Unknown,Penalty,1,Unassisted,1
+71,2011-10-01,2011,10,Série A,27.0,League Matchday,League,Away,Santos FC,Fluminense Football Club,20111001_FluminenseFo,3:2,2,3,Loss,1,0,32,0,1st Half,31-45,Unknown,Right-footed shot,0,Rafael Cabral,1
+72,2011-10-19,2011,10,Série A,21.0,League Matchday,League,Home,Santos FC,Botafogo de Futebol e Regatas,20111019_BotafogodeFu,2:0,2,0,Win,1,0,15,0,1st Half,1-15,Unknown,Solo run,0,Unassisted,1
+73,2011-10-23,2011,10,Série A,31.0,League Matchday,League,Away,Santos FC,CR Flamengo,20111023_CRFlamengo,1:1,1,1,Draw,1,0,48,0,2nd Half,46-60,Unknown,Penalty,1,Unassisted,1
+74,2011-10-29,2011,10,Série A,32.0,League Matchday,League,Home,Santos FC,Atlético Paranaense,20111029_AtléticoPara,4:1,4,1,Win,1,0,2,0,1st Half,1-15,Unknown,Penalty,1,Unassisted,1
+75,2011-10-29,2011,10,Série A,32.0,League Matchday,League,Home,Santos FC,Atlético Paranaense,20111029_AtléticoPara,4:1,4,1,Win,2,1,54,0,2nd Half,46-60,Unknown,Penalty,1,Unassisted,1
+76,2011-10-29,2011,10,Série A,32.0,League Matchday,League,Home,Santos FC,Atlético Paranaense,20111029_AtléticoPara,4:1,4,1,Win,3,1,56,0,2nd Half,46-60,Unknown,Left-footed shot,0,Wason Rentería,1
+77,2011-10-29,2011,10,Série A,32.0,League Matchday,League,Home,Santos FC,Atlético Paranaense,20111029_AtléticoPara,4:1,4,1,Win,4,1,70,0,2nd Half,61-75,Unknown,Right-footed shot,0,Adriano,1
+78,2011-11-06,2011,11,Série A,33.0,League Matchday,League,Home,Santos FC,Clube de Regatas Vasco da Gama,20111106_ClubedeRegat,2:0,2,0,Win,1,0,3,0,1st Half,1-15,Unknown,Direct free kick,0,Unassisted,1
+79,2011-11-27,2011,11,Série A,37.0,League Matchday,League,Home,Santos FC,Esporte Clube Bahia,20111127_EsporteClube,1:1,1,1,Draw,1,1,31,0,1st Half,31-45,Unknown,Right-footed shot,0,Ganso,1
+80,2011-12-14,2011,12,Club World Cup,,Semi-Finals,Continental / International,Away,Santos FC,Kashiwa Reysol,20111214_KashiwaReyso,1:3,3,1,Win,1,0,19,0,1st Half,16-30,LW,Left-footed shot,0,Ganso,1
+81,2012-02-05,2012,2,Campeonato Paulista,5.0,League Matchday,State League,Home,Santos FC,Sociedade Esportiva Palmeiras,20120205_SociedadeEsp,1:2,1,2,Loss,1,0,70,0,2nd Half,61-75,Unknown,Unknown,0,Unassisted,1
+82,2012-02-10,2012,2,Campeonato Paulista,6.0,League Matchday,State League,Away,Santos FC,Botafogo FC,20120210_BotafogoFC,1:4,4,1,Win,1,1,76,0,2nd Half,76-90,Unknown,Unknown,0,Unassisted,1
+83,2012-02-10,2012,2,Campeonato Paulista,6.0,League Matchday,State League,Away,Santos FC,Botafogo FC,20120210_BotafogoFC,1:4,4,1,Win,2,1,78,0,2nd Half,76-90,Unknown,Penalty,1,Unassisted,1
+84,2012-02-10,2012,2,Campeonato Paulista,6.0,League Matchday,State League,Away,Santos FC,Botafogo FC,20120210_BotafogoFC,1:4,4,1,Win,3,1,88,0,2nd Half,76-90,Unknown,Unknown,0,Unassisted,1
+85,2012-02-25,2012,2,Campeonato Paulista,10.0,League Matchday,State League,Home,Santos FC,Associação Atlética Ponte Preta,20120225_AssociaçãoAt,6:1,6,1,Win,1,0,27,0,1st Half,16-30,Unknown,Unknown,0,Unassisted,1
+86,2012-02-25,2012,2,Campeonato Paulista,10.0,League Matchday,State League,Home,Santos FC,Associação Atlética Ponte Preta,20120225_AssociaçãoAt,6:1,6,1,Win,6,1,77,0,2nd Half,76-90,Unknown,Unknown,0,Unassisted,1
+87,2012-03-07,2012,3,Libertadores,,Group Stage,Continental / International,Home,Santos FC,Sport Club Internacional,20120307_SportClubInt,3:1,3,1,Win,1,0,19,0,1st Half,16-30,CF,Penalty,1,Unassisted,1
+88,2012-03-07,2012,3,Libertadores,,Group Stage,Continental / International,Home,Santos FC,Sport Club Internacional,20120307_SportClubInt,3:1,3,1,Win,2,0,54,0,2nd Half,46-60,CF,Solo run,0,Juan,1
+89,2012-03-07,2012,3,Libertadores,,Group Stage,Continental / International,Home,Santos FC,Sport Club Internacional,20120307_SportClubInt,3:1,3,1,Win,3,1,65,0,2nd Half,61-75,CF,Solo run,0,Ganso,1
+90,2012-03-18,2012,3,Campeonato Paulista,14.0,League Matchday,State League,Away,Santos FC,São Paulo Futebol Clube,20120318_SãoPauloFute,3:2,2,3,Loss,2,2,76,0,2nd Half,76-90,Unknown,Unknown,0,Unassisted,1
+91,2012-03-23,2012,3,Libertadores,,Group Stage,Continental / International,Home,Santos FC,Club Juan Aurich,20120323_ClubJuanAuri,2:0,2,0,Win,2,0,59,0,2nd Half,46-60,CF,Unknown,0,Borges,1
+92,2012-03-30,2012,3,Campeonato Paulista,16.0,League Matchday,State League,Home,Santos FC,Guaratinguetá (SP),20120330_Guaratinguet,5:0,5,0,Win,1,0,3,0,1st Half,1-15,Unknown,Unknown,0,Unassisted,1
+93,2012-03-30,2012,3,Campeonato Paulista,16.0,League Matchday,State League,Home,Santos FC,Guaratinguetá (SP),20120330_Guaratinguet,5:0,5,0,Win,4,0,42,0,1st Half,31-45,Unknown,Penalty,1,Unassisted,1
+94,2012-03-30,2012,3,Campeonato Paulista,16.0,League Matchday,State League,Home,Santos FC,Guaratinguetá (SP),20120330_Guaratinguet,5:0,5,0,Win,5,0,87,0,2nd Half,76-90,Unknown,Penalty,1,Unassisted,1
+95,2012-04-08,2012,4,Campeonato Paulista,18.0,League Matchday,State League,Away,Santos FC,AD São Caetano (SP),20120408_ADSãoCaetano,2:1,1,2,Loss,1,0,31,0,1st Half,31-45,Unknown,Unknown,0,Unassisted,1
+96,2012-04-15,2012,4,Campeonato Paulista,19.0,League Matchday,State League,Home,Santos FC,Grêmio Catanduvense (SP),20120415_GrêmioCatand,5:0,5,0,Win,3,0,63,0,2nd Half,61-75,Unknown,Unknown,0,Unassisted,1
+97,2012-04-20,2012,4,Libertadores,,Group Stage,Continental / International,Home,Santos FC,The Strongest La Paz,20120420_TheStrongest,2:0,2,0,Win,2,0,88,0,2nd Half,76-90,CF,Unknown,0,Unassisted,1
+98,2012-04-22,2012,4,Campeonato Paulista (Final Phase),,Quarter-Finals,State League,Home,Santos FC,Mogi Mirim EC,20120422_MogiMirimEC,2:0,2,0,Win,2,0,71,0,2nd Half,61-75,Unknown,Unknown,0,Unassisted,1
+99,2012-04-29,2012,4,Campeonato Paulista (Final Phase),,Semi-Finals,State League,Away,Santos FC,São Paulo Futebol Clube,20120429_SãoPauloFute,1:3,3,1,Win,1,0,3,0,1st Half,1-15,Unknown,Penalty,1,Unassisted,1
+100,2012-04-29,2012,4,Campeonato Paulista (Final Phase),,Semi-Finals,State League,Away,Santos FC,São Paulo Futebol Clube,20120429_SãoPauloFute,1:3,3,1,Win,2,0,31,0,1st Half,31-45,Unknown,Unknown,0,Ganso,1
+101,2012-04-29,2012,4,Campeonato Paulista (Final Phase),,Semi-Finals,State League,Away,Santos FC,São Paulo Futebol Clube,20120429_SãoPauloFute,1:3,3,1,Win,3,1,77,0,2nd Half,76-90,Unknown,Unknown,0,Léo,1
+102,2012-05-06,2012,5,Campeonato Paulista (Final Phase),,Final,State League,Away,Santos FC,Guarani Futebol Clube (SP),20120506_GuaraniFuteb,0:3,3,0,Win,2,0,65,0,2nd Half,61-75,Unknown,Unknown,0,Ganso,1
+103,2012-05-06,2012,5,Campeonato Paulista (Final Phase),,Final,State League,Away,Santos FC,Guarani Futebol Clube (SP),20120506_GuaraniFuteb,0:3,3,0,Win,3,0,90,0,2nd Half,76-90,Unknown,Unknown,0,Unassisted,1
+104,2012-05-11,2012,5,Libertadores,,Round of 16,Continental / International,Home,Santos FC,Bolívar La Paz,20120511_BolívarLaPaz,8:0,8,0,Win,2,0,21,0,1st Half,16-30,CF,Penalty,1,Unassisted,1
+105,2012-05-11,2012,5,Libertadores,,Round of 16,Continental / International,Home,Santos FC,Bolívar La Paz,20120511_BolívarLaPaz,8:0,8,0,Win,5,0,36,0,1st Half,31-45,CF,Right-footed shot,0,Elano,1
+106,2012-05-13,2012,5,Campeonato Paulista (Final Phase),,Final,State League,Home,Santos FC,Guarani Futebol Clube (SP),20120513_GuaraniFuteb,4:2,4,2,Win,2,1,8,0,1st Half,1-15,Unknown,Penalty,1,Unassisted,1
+107,2012-05-13,2012,5,Campeonato Paulista (Final Phase),,Final,State League,Home,Santos FC,Guarani Futebol Clube (SP),20120513_GuaraniFuteb,4:2,4,2,Win,3,2,71,0,2nd Half,61-75,Unknown,Unknown,0,Juan,1
+108,2012-06-21,2012,6,Libertadores,,Semi-Finals,Continental / International,Away,Santos FC,Sport Club Corinthians Paulista,20120621_SportClubCor,1:1,1,1,Draw,1,0,36,0,1st Half,31-45,LW,Tap-in,0,Unassisted,1
+109,2012-06-24,2012,6,Série A,6.0,League Matchday,League,Home,Santos FC,Coritiba Foot Ball Club,20120624_CoritibaFoot,2:2,2,2,Draw,2,1,71,0,2nd Half,61-75,LW,Right-footed shot,0,Alan Kardec,1
+110,2012-07-08,2012,7,Série A,8.0,League Matchday,League,Home,Santos FC,Grêmio Foot-Ball Porto Alegrense,20120708_GrêmioFootBa,4:2,4,2,Win,3,0,62,0,2nd Half,61-75,CF,Header,0,Unassisted,1
+111,2012-08-16,2012,8,Série A,17.0,League Matchday,League,Away,Santos FC,Figueirense Futebol Clube,20120816_FigueirenseF,1:3,3,1,Win,1,1,51,0,2nd Half,46-60,CF,Solo run,0,Unassisted,1
+112,2012-08-25,2012,8,Série A,19.0,League Matchday,League,Away,Santos FC,Sociedade Esportiva Palmeiras,20120825_SociedadeEsp,1:2,2,1,Win,1,1,44,0,1st Half,31-45,CF,Direct free kick,0,Unassisted,1
+113,2012-08-25,2012,8,Série A,19.0,League Matchday,League,Away,Santos FC,Sociedade Esportiva Palmeiras,20120825_SociedadeEsp,1:2,2,1,Win,2,1,63,0,2nd Half,61-75,CF,Right-footed shot,0,Ganso,1
+114,2012-09-12,2012,9,Série A,24.0,League Matchday,League,Home,Santos FC,CR Flamengo,20120912_CRFlamengo,2:0,2,0,Win,2,0,87,0,2nd Half,76-90,CF,Right-footed shot,0,Bruno Peres,1
+115,2012-09-16,2012,9,Série A,25.0,League Matchday,League,Away,Santos FC,Coritiba Foot Ball Club,20120916_CoritibaFoot,1:2,2,1,Win,1,1,71,0,2nd Half,61-75,CF,Solo run,0,Bernardo,1
+116,2012-09-16,2012,9,Série A,25.0,League Matchday,League,Away,Santos FC,Coritiba Foot Ball Club,20120916_CoritibaFoot,1:2,2,1,Win,2,1,83,0,2nd Half,76-90,CF,Tap-in,0,Pato Rodríguez,1
+117,2012-09-27,2012,9,Recopa Sudamericana,,Final,Continental / International,Home,Santos FC,Club Universidad de Chile,20120927_ClubUniversi,2:0,2,0,Win,1,0,28,0,1st Half,16-30,CF,Right-footed shot,0,André Felipe,1
+118,2012-10-17,2012,10,Série A,31.0,League Matchday,League,Home,Santos FC,Clube Atlético Mineiro,20121017_ClubeAtlétic,2:2,2,2,Draw,2,0,11,0,1st Half,1-15,CF,Solo run,0,Unassisted,1
+119,2012-11-03,2012,11,Série A,34.0,League Matchday,League,Away,Santos FC,Cruzeiro Esporte Clube,20121103_CruzeiroEspo,0:4,4,0,Win,1,0,12,0,1st Half,1-15,CF,Right-footed shot,0,Arouca,1
+120,2012-11-03,2012,11,Série A,34.0,League Matchday,League,Away,Santos FC,Cruzeiro Esporte Clube,20121103_CruzeiroEspo,0:4,4,0,Win,2,0,36,0,1st Half,31-45,CF,Right-footed shot,0,André Felipe,1
+121,2012-11-03,2012,11,Série A,34.0,League Matchday,League,Away,Santos FC,Cruzeiro Esporte Clube,20121103_CruzeiroEspo,0:4,4,0,Win,4,0,82,0,2nd Half,76-90,CF,Right-footed shot,0,Ezequiel Miralles,1
+122,2012-12-01,2012,12,Série A,38.0,League Matchday,League,Home,Santos FC,Sociedade Esportiva Palmeiras,20121201_SociedadeEsp,3:1,3,1,Win,2,1,23,0,1st Half,16-30,CF,Penalty,1,Unassisted,1
+123,2012-12-01,2012,12,Série A,38.0,League Matchday,League,Home,Santos FC,Sociedade Esportiva Palmeiras,20121201_SociedadeEsp,3:1,3,1,Win,3,1,39,0,1st Half,31-45,CF,Right-footed shot,0,Pato Rodríguez,1
+124,2013-01-20,2013,1,Campeonato Paulista,1.0,League Matchday,State League,Away,Santos FC,São Bernardo FC,20130120_SãoBernardoF,1:3,3,1,Win,1,0,20,0,1st Half,16-30,Unknown,Unknown,0,Unassisted,1
+125,2013-01-20,2013,1,Campeonato Paulista,1.0,League Matchday,State League,Away,Santos FC,São Bernardo FC,20130120_SãoBernardoF,1:3,3,1,Win,3,1,90,2,2nd Half,76-90,Unknown,Penalty,1,Unassisted,1
+126,2013-01-24,2013,1,Campeonato Paulista,2.0,League Matchday,State League,Home,Santos FC,Botafogo FC,20130124_BotafogoFC,3:0,3,0,Win,2,0,41,0,1st Half,31-45,Unknown,Unknown,0,Unassisted,1
+127,2013-01-28,2013,1,Campeonato Paulista,3.0,League Matchday,State League,Away,Santos FC,Red Bull Bragantino,20130128_RedBullBraga,2:2,2,2,Draw,2,2,90,1,2nd Half,76-90,Unknown,Penalty,1,Unassisted,1
+128,2013-02-03,2013,2,Campeonato Paulista,5.0,League Matchday,State League,Home,Santos FC,São Paulo Futebol Clube,20130203_SãoPauloFute,3:1,3,1,Win,2,0,49,0,2nd Half,46-60,Unknown,Penalty,1,Unassisted,1
+129,2013-02-10,2013,2,Campeonato Paulista,7.0,League Matchday,State League,Home,Santos FC,Paulista FC (SP),20130210_PaulistaFCSP,1:3,1,3,Loss,1,3,90,0,2nd Half,76-90,Unknown,Unknown,0,Unassisted,1
+130,2013-03-31,2013,3,Campeonato Paulista,16.0,League Matchday,State League,Away,Santos FC,Oeste FC,20130331_OesteFC,1:2,2,1,Win,1,0,67,0,2nd Half,61-75,Unknown,Unknown,0,Unassisted,1
+131,2013-04-05,2013,4,Campeonato Paulista,17.0,League Matchday,State League,Home,Santos FC,AD São Caetano (SP),20130405_ADSãoCaetano,1:1,1,1,Draw,1,1,53,0,2nd Half,46-60,Unknown,Unknown,0,Unassisted,1
+132,2013-04-13,2013,4,Campeonato Paulista,18.0,League Matchday,State League,Away,Santos FC,União Barbarense FC (SP),20130413_UniãoBarbare,0:4,4,0,Win,1,0,8,0,1st Half,1-15,Unknown,Unknown,0,Unassisted,1
+133,2013-04-13,2013,4,Campeonato Paulista,18.0,League Matchday,State League,Away,Santos FC,União Barbarense FC (SP),20130413_UniãoBarbare,0:4,4,0,Win,2,0,27,0,1st Half,16-30,Unknown,Unknown,0,Unassisted,1
+134,2013-04-13,2013,4,Campeonato Paulista,18.0,League Matchday,State League,Away,Santos FC,União Barbarense FC (SP),20130413_UniãoBarbare,0:4,4,0,Win,3,0,46,0,2nd Half,46-60,Unknown,Unknown,0,Unassisted,1
+135,2013-04-13,2013,4,Campeonato Paulista,18.0,League Matchday,State League,Away,Santos FC,União Barbarense FC (SP),20130413_UniãoBarbare,0:4,4,0,Win,4,0,51,0,2nd Half,46-60,Unknown,Unknown,0,Unassisted,1
+136,2013-04-17,2013,4,Copa do Brasil,,First Round,Domestic Cup / Super Cup,Home,Santos FC,CR Flamengo,20130417_CRFlamengo,2:0,2,0,Win,2,0,85,0,2nd Half,76-90,Unknown,Unknown,0,Unassisted,1
+137,2013-08-21,2013,8,Supercopa,,Final,Domestic Cup / Super Cup,Away,FC Barcelona,Atlético de Madrid,20130821_AtléticodeMa,1:1,1,1,Draw,1,1,66,0,2nd Half,61-75,Unknown,Header,0,Dani Alves,1
+138,2013-09-24,2013,9,LaLiga,6.0,League Matchday,League,Home,FC Barcelona,Real Sociedad,20130924_RealSociedad,4:1,4,1,Win,1,0,5,0,1st Half,1-15,LW,Left-footed shot,0,Alexis Sánchez,1
+139,2013-10-05,2013,10,LaLiga,8.0,League Matchday,League,Home,FC Barcelona,Real Valladolid CF,20131005_RealValladol,4:1,4,1,Win,4,1,70,0,2nd Half,61-75,CF,Right-footed shot,0,Alexis Sánchez,1
+140,2013-10-26,2013,10,LaLiga,10.0,League Matchday,League,Home,FC Barcelona,Real Madrid,20131026_RealMadrid,2:1,2,1,Win,1,0,19,0,1st Half,16-30,LW,Right-footed shot,0,Andrés Iniesta,1
+141,2013-11-10,2013,11,LaLiga,13.0,League Matchday,League,Away,FC Barcelona,Real Betis Balompié,20131110_RealBetisBal,1:4,4,1,Win,1,0,36,0,1st Half,31-45,LW,Right-footed shot,0,Cesc Fàbregas,1
+142,2013-12-11,2013,12,UEFA Champions League,,Group Stage,Continental / International,Home,FC Barcelona,Celtic FC,20131211_CelticFC,6:1,6,1,Win,3,0,45,0,1st Half,31-45,CF,Right-footed shot,0,Martín Montoya,1
+143,2013-12-11,2013,12,UEFA Champions League,,Group Stage,Continental / International,Home,FC Barcelona,Celtic FC,20131211_CelticFC,6:1,6,1,Win,4,0,48,0,2nd Half,46-60,CF,Left-footed shot,0,Xavi,1
+144,2013-12-11,2013,12,UEFA Champions League,,Group Stage,Continental / International,Home,FC Barcelona,Celtic FC,20131211_CelticFC,6:1,6,1,Win,5,0,58,0,2nd Half,46-60,CF,Right-footed shot,0,Adriano,1
+145,2013-12-14,2013,12,LaLiga,16.0,League Matchday,League,Home,FC Barcelona,Villarreal CF,20131214_VillarrealCF,2:1,2,1,Win,1,0,30,0,1st Half,16-30,LW,Penalty,1,Unassisted,1
+146,2013-12-14,2013,12,LaLiga,16.0,League Matchday,League,Home,FC Barcelona,Villarreal CF,20131214_VillarrealCF,2:1,2,1,Win,2,1,68,0,2nd Half,61-75,LW,Right-footed shot,0,Alexis Sánchez,1
+147,2013-12-17,2013,12,Copa del Rey,,Fourth Round,Domestic Cup / Super Cup,Home,FC Barcelona,FC Cartagena,20131217_FCCartagena,3:0,3,0,Win,3,0,87,0,2nd Half,76-90,CF,Header,0,Andrés Iniesta,1
+148,2014-02-15,2014,2,LaLiga,24.0,League Matchday,League,Home,FC Barcelona,Rayo Vallecano,20140215_RayoVallecan,6:0,6,0,Win,6,0,89,0,2nd Half,76-90,Unknown,Right-footed shot,0,Andrés Iniesta,1
+149,2014-03-26,2014,3,LaLiga,30.0,League Matchday,League,Home,FC Barcelona,Celta de Vigo,20140326_CeltadeVigo,3:0,3,0,Win,1,0,6,0,1st Half,1-15,LW,Right-footed shot,0,Alexis Sánchez,1
+150,2014-03-26,2014,3,LaLiga,30.0,League Matchday,League,Home,FC Barcelona,Celta de Vigo,20140326_CeltadeVigo,3:0,3,0,Win,3,0,67,0,2nd Half,61-75,LW,Left-footed shot,0,Alexis Sánchez,1
+151,2014-04-01,2014,4,UEFA Champions League,,Quarter-Finals,Continental / International,Home,FC Barcelona,Atlético de Madrid,20140401_AtléticodeMa,1:1,1,1,Draw,1,1,71,0,2nd Half,61-75,CF,Right-footed shot,0,Andrés Iniesta,1
+152,2014-09-13,2014,9,LaLiga,3.0,League Matchday,League,Home,FC Barcelona,Athletic Bilbao,20140913_AthleticBilb,2:0,2,0,Win,1,0,79,0,2nd Half,76-90,Unknown,Left-footed shot,0,Lionel Messi,1
+153,2014-09-13,2014,9,LaLiga,3.0,League Matchday,League,Home,FC Barcelona,Athletic Bilbao,20140913_AthleticBilb,2:0,2,0,Win,2,0,84,0,2nd Half,76-90,Unknown,Right-footed shot,0,Lionel Messi,1
+154,2014-09-21,2014,9,LaLiga,4.0,League Matchday,League,Away,FC Barcelona,Levante UD,20140921_LevanteUD,0:5,5,0,Win,1,0,34,0,1st Half,31-45,LW,Right-footed shot,0,Lionel Messi,1
+155,2014-09-27,2014,9,LaLiga,6.0,League Matchday,League,Home,FC Barcelona,Granada CF,20140927_GranadaCF,6:0,6,0,Win,1,0,26,0,1st Half,16-30,LW,Deflected shot on goal,0,Unassisted,1
+156,2014-09-27,2014,9,LaLiga,6.0,League Matchday,League,Home,FC Barcelona,Granada CF,20140927_GranadaCF,6:0,6,0,Win,3,0,45,0,1st Half,31-45,LW,Tap-in,0,Unassisted,1
+157,2014-09-27,2014,9,LaLiga,6.0,League Matchday,League,Home,FC Barcelona,Granada CF,20140927_GranadaCF,6:0,6,0,Win,5,0,66,0,2nd Half,61-75,LW,Right-footed shot,0,Lionel Messi,1
+158,2014-09-30,2014,9,UEFA Champions League,,Group Stage,Continental / International,Away,FC Barcelona,Paris Saint-Germain,20140930_ParisSaintGe,3:2,2,3,Loss,2,3,56,0,2nd Half,46-60,CF,Right-footed shot,0,Dani Alves,1
+159,2014-10-04,2014,10,LaLiga,7.0,League Matchday,League,Away,FC Barcelona,Rayo Vallecano,20141004_RayoVallecan,0:2,2,0,Win,2,0,36,0,1st Half,31-45,LW,Right-footed shot,0,Munir El Haddadi,1
+160,2014-10-18,2014,10,LaLiga,8.0,League Matchday,League,Home,FC Barcelona,SD Eibar,20141018_SDEibar,3:0,3,0,Win,2,0,72,0,2nd Half,61-75,LW,Right-footed shot,0,Dani Alves,1
+161,2014-10-21,2014,10,UEFA Champions League,,Group Stage,Continental / International,Home,FC Barcelona,Ajax Amsterdam,20141021_AjaxAmsterda,3:1,3,1,Win,1,0,8,0,1st Half,1-15,LW,Right-footed shot,0,Lionel Messi,1
+162,2014-10-25,2014,10,LaLiga,9.0,League Matchday,League,Away,FC Barcelona,Real Madrid,20141025_RealMadrid,3:1,1,3,Loss,1,0,4,0,1st Half,1-15,LW,Right-footed shot,0,Luis Suárez,1
+163,2014-11-08,2014,11,LaLiga,11.0,League Matchday,League,Away,FC Barcelona,UD Almería,20141108_UDAlmería,1:2,2,1,Win,1,1,73,0,2nd Half,61-75,LW,Deflected shot on goal,0,Luis Suárez,1
+164,2014-11-22,2014,11,LaLiga,12.0,League Matchday,League,Home,FC Barcelona,Sevilla FC,20141122_SevillaFC,5:1,5,1,Win,2,1,49,0,2nd Half,46-60,LW,Header,0,Xavi,1
+165,2014-12-10,2014,12,UEFA Champions League,,Group Stage,Continental / International,Home,FC Barcelona,Paris Saint-Germain,20141210_ParisSaintGe,3:1,3,1,Win,2,1,41,0,1st Half,31-45,LW,Right-footed shot,0,Andrés Iniesta,1
+166,2015-01-08,2015,1,Copa del Rey,,Round of 16,Domestic Cup / Super Cup,Home,FC Barcelona,Elche CF,20150108_ElcheCF,5:0,5,0,Win,1,0,34,0,1st Half,31-45,LW,Right-footed shot,0,Luis Suárez,1
+167,2015-01-08,2015,1,Copa del Rey,,Round of 16,Domestic Cup / Super Cup,Home,FC Barcelona,Elche CF,20150108_ElcheCF,5:0,5,0,Win,5,0,59,0,2nd Half,46-60,LW,Right-footed shot,0,Lionel Messi,1
+168,2015-01-11,2015,1,LaLiga,18.0,League Matchday,League,Home,FC Barcelona,Atlético de Madrid,20150111_AtléticodeMa,3:1,3,1,Win,1,0,12,0,1st Half,1-15,LW,Left-footed shot,0,Luis Suárez,1
+169,2015-01-24,2015,1,LaLiga,20.0,League Matchday,League,Away,FC Barcelona,Elche CF,20150124_ElcheCF,0:6,6,0,Win,3,0,69,0,2nd Half,61-75,LW,Right-footed shot,0,Lionel Messi,1
+170,2015-01-24,2015,1,LaLiga,20.0,League Matchday,League,Away,FC Barcelona,Elche CF,20150124_ElcheCF,0:6,6,0,Win,4,0,71,0,2nd Half,61-75,LW,Right-footed shot,0,Lionel Messi,1
+171,2015-01-28,2015,1,Copa del Rey,,Quarter-Finals,Domestic Cup / Super Cup,Away,FC Barcelona,Atlético de Madrid,20150128_AtléticodeMa,2:3,3,2,Win,1,1,9,0,1st Half,1-15,LW,Right-footed shot,0,Luis Suárez,1
+172,2015-01-28,2015,1,Copa del Rey,,Quarter-Finals,Domestic Cup / Super Cup,Away,FC Barcelona,Atlético de Madrid,20150128_AtléticodeMa,2:3,3,2,Win,3,2,41,0,1st Half,31-45,LW,Right-footed shot,0,Jordi Alba,1
+173,2015-02-01,2015,2,LaLiga,21.0,League Matchday,League,Home,FC Barcelona,Villarreal CF,20150201_VillarrealCF,3:2,3,2,Win,1,1,45,0,1st Half,31-45,LW,Tap-in,0,Unassisted,1
+174,2015-02-08,2015,2,LaLiga,22.0,League Matchday,League,Away,FC Barcelona,Athletic Bilbao,20150208_AthleticBilb,2:5,5,2,Win,4,1,65,0,2nd Half,61-75,LW,Right-footed shot,0,Lionel Messi,1
+175,2015-02-15,2015,2,LaLiga,23.0,League Matchday,League,Home,FC Barcelona,Levante UD,20150215_LevanteUD,5:0,5,0,Win,1,0,17,0,1st Half,16-30,LW,Right-footed shot,0,Lionel Messi,1
+176,2015-03-04,2015,3,Copa del Rey,,Semi-Finals,Domestic Cup / Super Cup,Away,FC Barcelona,Villarreal CF,20150304_VillarrealCF,1:3,3,1,Win,1,0,4,0,1st Half,1-15,LW,Left-footed shot,0,Lionel Messi,1
+177,2015-03-04,2015,3,Copa del Rey,,Semi-Finals,Domestic Cup / Super Cup,Away,FC Barcelona,Villarreal CF,20150304_VillarrealCF,1:3,3,1,Win,3,1,88,0,2nd Half,76-90,LW,Header,0,Xavi,1
+178,2015-04-11,2015,4,LaLiga,31.0,League Matchday,League,Away,FC Barcelona,Sevilla FC,20150411_SevillaFC,2:2,2,2,Draw,2,0,31,0,1st Half,31-45,LW,Direct free kick,0,Unassisted,1
+179,2015-04-15,2015,4,UEFA Champions League,,Quarter-Finals,Continental / International,Away,FC Barcelona,Paris Saint-Germain,20150415_ParisSaintGe,1:3,3,1,Win,1,0,18,0,1st Half,16-30,LW,Right-footed shot,0,Lionel Messi,1
+180,2015-04-21,2015,4,UEFA Champions League,,Quarter-Finals,Continental / International,Home,FC Barcelona,Paris Saint-Germain,20150421_ParisSaintGe,2:0,2,0,Win,1,0,14,0,1st Half,1-15,LW,Right-footed shot,0,Andrés Iniesta,1
+181,2015-04-21,2015,4,UEFA Champions League,,Quarter-Finals,Continental / International,Home,FC Barcelona,Paris Saint-Germain,20150421_ParisSaintGe,2:0,2,0,Win,2,0,34,0,1st Half,31-45,LW,Header,0,Dani Alves,1
+182,2015-04-25,2015,4,LaLiga,33.0,League Matchday,League,Away,FC Barcelona,RCD Espanyol Barcelona,20150425_RCDEspanyolB,0:2,2,0,Win,1,0,17,0,1st Half,16-30,LW,Right-footed shot,0,Jordi Alba,1
+183,2015-04-28,2015,4,LaLiga,34.0,League Matchday,League,Home,FC Barcelona,Getafe CF,20150428_GetafeCF,6:0,6,0,Win,3,0,28,0,1st Half,16-30,LW,Right-footed shot,0,Luis Suárez,1
+184,2015-05-02,2015,5,LaLiga,35.0,League Matchday,League,Away,FC Barcelona,Córdoba CF,20150502_CórdobaCF,0:8,8,0,Win,7,0,85,0,2nd Half,76-90,LW,Penalty,1,Unassisted,1
+185,2015-05-06,2015,5,UEFA Champions League,,Semi-Finals,Continental / International,Home,FC Barcelona,Bayern Munich,20150506_BayernMunich,3:0,3,0,Win,3,0,90,4,2nd Half,76-90,LW,Right-footed shot,0,Lionel Messi,1
+186,2015-05-09,2015,5,LaLiga,36.0,League Matchday,League,Home,FC Barcelona,Real Sociedad,20150509_RealSociedad,2:0,2,0,Win,1,0,51,0,2nd Half,46-60,LW,Header,0,Unassisted,1
+187,2015-05-12,2015,5,UEFA Champions League,,Semi-Finals,Continental / International,Away,FC Barcelona,Bayern Munich,20150512_BayernMunich,3:2,2,3,Loss,1,1,15,0,1st Half,1-15,LW,Left-footed shot,0,Luis Suárez,1
+188,2015-05-12,2015,5,UEFA Champions League,,Semi-Finals,Continental / International,Away,FC Barcelona,Bayern Munich,20150512_BayernMunich,3:2,2,3,Loss,2,1,29,0,1st Half,16-30,LW,Right-footed shot,0,Luis Suárez,1
+189,2015-05-30,2015,5,Copa del Rey,,Final,Domestic Cup / Super Cup,Away,FC Barcelona,Athletic Bilbao,20150530_AthleticBilb,1:3,3,1,Win,2,0,37,0,1st Half,31-45,LW,Right-footed shot,0,Luis Suárez,1
+190,2015-06-06,2015,6,UEFA Champions League,,Final,Continental / International,Away,FC Barcelona,Juventus FC,20150606_JuventusFC,1:3,3,1,Win,3,1,90,7,2nd Half,76-90,LW,Left-footed shot,0,Pedro,1
+191,2015-09-12,2015,9,LaLiga,3.0,League Matchday,League,Away,FC Barcelona,Atlético de Madrid,20150912_AtléticodeMa,1:2,2,1,Win,1,1,55,0,2nd Half,46-60,LW,Direct free kick,0,Unassisted,1
+192,2015-09-20,2015,9,LaLiga,4.0,League Matchday,League,Home,FC Barcelona,Levante UD,20150920_LevanteUD,4:1,4,1,Win,2,0,56,0,2nd Half,46-60,LW,Right-footed shot,0,Unassisted,1
+193,2015-09-23,2015,9,LaLiga,5.0,League Matchday,League,Away,FC Barcelona,Celta de Vigo,20150923_CeltadeVigo,4:1,1,4,Loss,1,3,80,0,2nd Half,76-90,LW,Right-footed shot,0,Lionel Messi,1
+194,2015-10-03,2015,10,LaLiga,7.0,League Matchday,League,Away,FC Barcelona,Sevilla FC,20151003_SevillaFC,2:1,1,2,Loss,1,2,74,0,2nd Half,61-75,LW,Penalty,1,Unassisted,1
+195,2015-10-17,2015,10,LaLiga,8.0,League Matchday,League,Home,FC Barcelona,Rayo Vallecano,20151017_RayoVallecan,5:2,5,2,Win,1,1,22,0,1st Half,16-30,LW,Penalty,1,Unassisted,1
+196,2015-10-17,2015,10,LaLiga,8.0,League Matchday,League,Home,FC Barcelona,Rayo Vallecano,20151017_RayoVallecan,5:2,5,2,Win,2,1,32,0,1st Half,31-45,LW,Penalty,1,Unassisted,1
+197,2015-10-17,2015,10,LaLiga,8.0,League Matchday,League,Home,FC Barcelona,Rayo Vallecano,20151017_RayoVallecan,5:2,5,2,Win,3,1,69,0,2nd Half,61-75,LW,Left-footed shot,0,Unassisted,1
+198,2015-10-17,2015,10,LaLiga,8.0,League Matchday,League,Home,FC Barcelona,Rayo Vallecano,20151017_RayoVallecan,5:2,5,2,Win,4,1,71,0,2nd Half,61-75,LW,Left-footed shot,0,Luis Suárez,1
+199,2015-10-31,2015,10,LaLiga,10.0,League Matchday,League,Away,FC Barcelona,Getafe CF,20151031_GetafeCF,0:2,2,0,Win,2,0,58,0,2nd Half,46-60,LW,Left-footed shot,0,Sergi Roberto,1
+200,2015-11-04,2015,11,UEFA Champions League,,Group Stage,Continental / International,Home,FC Barcelona,BATE Borisov,20151104_BATEBorisov,3:0,3,0,Win,1,0,31,0,1st Half,31-45,LW,Penalty,1,Unassisted,1
+201,2015-11-04,2015,11,UEFA Champions League,,Group Stage,Continental / International,Home,FC Barcelona,BATE Borisov,20151104_BATEBorisov,3:0,3,0,Win,3,0,83,0,2nd Half,76-90,LW,Right-footed shot,0,Luis Suárez,1
+202,2015-11-08,2015,11,LaLiga,11.0,League Matchday,League,Home,FC Barcelona,Villarreal CF,20151108_VillarrealCF,3:0,3,0,Win,1,0,60,0,2nd Half,46-60,LW,Left-footed shot,0,Sergio Busquets,1
+203,2015-11-08,2015,11,LaLiga,11.0,League Matchday,League,Home,FC Barcelona,Villarreal CF,20151108_VillarrealCF,3:0,3,0,Win,3,0,85,0,2nd Half,76-90,LW,Right-footed shot,0,Luis Suárez,1
+204,2015-11-21,2015,11,LaLiga,12.0,League Matchday,League,Away,FC Barcelona,Real Madrid,20151121_RealMadrid,0:4,4,0,Win,2,0,39,0,1st Half,31-45,LW,Left-footed shot,0,Andrés Iniesta,1
+205,2015-11-28,2015,11,LaLiga,13.0,League Matchday,League,Home,FC Barcelona,Real Sociedad,20151128_RealSociedad,4:0,4,0,Win,1,0,22,0,1st Half,16-30,LW,Right-footed shot,0,Dani Alves,1
+206,2015-11-28,2015,11,LaLiga,13.0,League Matchday,League,Home,FC Barcelona,Real Sociedad,20151128_RealSociedad,4:0,4,0,Win,3,0,53,0,2nd Half,46-60,LW,Right-footed shot,0,Jérémy Mathieu,1
+207,2016-01-06,2016,1,Copa del Rey,,Round of 16,Domestic Cup / Super Cup,Home,FC Barcelona,RCD Espanyol Barcelona,20160106_RCDEspanyolB,4:1,4,1,Win,4,1,88,0,2nd Half,76-90,LW,Right-footed shot,0,Lionel Messi,1
+208,2016-01-09,2016,1,LaLiga,19.0,League Matchday,League,Home,FC Barcelona,Granada CF,20160109_GranadaCF,4:0,4,0,Win,4,0,83,0,2nd Half,76-90,LW,Right-footed shot,0,Luis Suárez,1
+209,2016-01-17,2016,1,LaLiga,20.0,League Matchday,League,Home,FC Barcelona,Athletic Bilbao,20160117_AthleticBilb,6:0,6,0,Win,2,0,31,0,1st Half,31-45,LW,Left-footed shot,0,Luis Suárez,1
+210,2016-01-20,2016,1,Copa del Rey,,Quarter-Finals,Domestic Cup / Super Cup,Away,FC Barcelona,Athletic Bilbao,20160120_AthleticBilb,1:2,2,1,Win,2,0,25,0,1st Half,16-30,LW,Right-footed shot,0,Sergi Roberto,1
+211,2016-01-27,2016,1,Copa del Rey,,Quarter-Finals,Domestic Cup / Super Cup,Home,FC Barcelona,Athletic Bilbao,20160127_AthleticBilb,3:1,3,1,Win,3,1,90,1,2nd Half,76-90,LW,Left-footed shot,0,Sergi Roberto,1
+212,2016-02-14,2016,2,LaLiga,24.0,League Matchday,League,Home,FC Barcelona,Celta de Vigo,20160214_CeltadeVigo,6:1,6,1,Win,6,1,90,1,2nd Half,76-90,LW,Left-footed shot,0,Luis Suárez,1
+213,2016-02-20,2016,2,LaLiga,25.0,League Matchday,League,Away,FC Barcelona,UD Las Palmas,20160220_UDLasPalmas,1:2,2,1,Win,2,1,39,0,1st Half,31-45,LW,Tap-in,0,Unassisted,1
+214,2016-03-12,2016,3,LaLiga,29.0,League Matchday,League,Home,FC Barcelona,Getafe CF,20160312_GetafeCF,6:0,6,0,Win,3,0,32,0,1st Half,31-45,LW,Right-footed shot,0,Lionel Messi,1
+215,2016-03-12,2016,3,LaLiga,29.0,League Matchday,League,Home,FC Barcelona,Getafe CF,20160312_GetafeCF,6:0,6,0,Win,5,0,51,0,2nd Half,46-60,LW,Right-footed shot,0,Lionel Messi,1
+216,2016-03-16,2016,3,UEFA Champions League,,Round of 16,Continental / International,Home,FC Barcelona,Arsenal FC,20160316_ArsenalFC,3:1,3,1,Win,1,0,18,0,1st Half,16-30,LW,Left-footed shot,0,Luis Suárez,1
+217,2016-03-20,2016,3,LaLiga,30.0,League Matchday,League,Away,FC Barcelona,Villarreal CF,20160320_VillarrealCF,2:2,2,2,Draw,2,0,41,0,1st Half,31-45,LW,Penalty,1,Unassisted,1
+218,2016-04-20,2016,4,LaLiga,34.0,League Matchday,League,Away,FC Barcelona,Deportivo de La Coruña,20160420_DeportivodeL,0:8,8,0,Win,8,0,81,0,2nd Half,76-90,LW,Left-footed shot,0,Luis Suárez,1
+219,2016-04-23,2016,4,LaLiga,35.0,League Matchday,League,Home,FC Barcelona,Sporting Gijón,20160423_SportingGijó,6:0,6,0,Win,5,0,86,0,2nd Half,76-90,LW,Penalty,1,Unassisted,1
+220,2016-05-08,2016,5,LaLiga,37.0,League Matchday,League,Home,FC Barcelona,RCD Espanyol Barcelona,20160508_RCDEspanyolB,5:0,5,0,Win,5,0,83,0,2nd Half,76-90,LW,Right-footed shot,0,Luis Suárez,1
+221,2016-05-22,2016,5,Copa del Rey,,Final,Domestic Cup / Super Cup,Home,FC Barcelona,Sevilla FC,20160522_SevillaFC,2:0,2,0,Win,2,0,120,3,Extra Time,90+/ET,LW,Right-footed shot,0,Lionel Messi,1
+222,2016-09-13,2016,9,UEFA Champions League,,Group Stage,Continental / International,Home,FC Barcelona,Celtic FC,20160913_CelticFC,7:0,7,0,Win,3,0,50,0,2nd Half,46-60,LW,Direct free kick,0,Unassisted,1
+223,2016-09-17,2016,9,LaLiga,4.0,League Matchday,League,Away,FC Barcelona,CD Leganés,20160917_CDLeganés,1:5,5,1,Win,3,0,44,0,1st Half,31-45,LW,Right-footed shot,0,Luis Suárez,1
+224,2016-09-24,2016,9,LaLiga,6.0,League Matchday,League,Away,FC Barcelona,Sporting Gijón,20160924_SportingGijó,0:5,5,0,Win,3,0,81,0,2nd Half,76-90,LW,Right-footed shot,0,Unassisted,1
+225,2016-09-24,2016,9,LaLiga,6.0,League Matchday,League,Away,FC Barcelona,Sporting Gijón,20160924_SportingGijó,0:5,5,0,Win,5,0,88,0,2nd Half,76-90,LW,Left-footed shot,0,Denis Suárez,1
+226,2016-10-02,2016,10,LaLiga,7.0,League Matchday,League,Away,FC Barcelona,Celta de Vigo,20161002_CeltadeVigo,4:3,3,4,Loss,2,3,64,0,2nd Half,61-75,LW,Penalty,1,Unassisted,1
+227,2016-10-19,2016,10,UEFA Champions League,,Group Stage,Continental / International,Home,FC Barcelona,Manchester City,20161019_ManchesterCi,4:0,4,0,Win,4,0,89,0,2nd Half,76-90,LW,Right-footed shot,0,Lionel Messi,1
+228,2017-01-11,2017,1,Copa del Rey,,Round of 16,Domestic Cup / Super Cup,Home,FC Barcelona,Athletic Bilbao,20170111_AthleticBilb,3:1,3,1,Win,2,0,48,0,2nd Half,46-60,LW,Penalty,1,Unassisted,1
+229,2017-01-19,2017,1,Copa del Rey,,Quarter-Finals,Domestic Cup / Super Cup,Away,FC Barcelona,Real Sociedad,20170119_RealSociedad,0:1,1,0,Win,1,0,21,0,1st Half,16-30,LW,Penalty,1,Unassisted,1
+230,2017-01-22,2017,1,LaLiga,19.0,League Matchday,League,Away,FC Barcelona,SD Eibar,20170122_SDEibar,0:4,4,0,Win,4,0,90,1,2nd Half,76-90,LW,Right-footed shot,0,Aleix Vidal,1
+231,2017-02-11,2017,2,LaLiga,22.0,League Matchday,League,Away,FC Barcelona,Deportivo Alavés,20170211_DeportivoAla,0:6,6,0,Win,2,0,40,0,1st Half,31-45,LW,Right-footed shot,0,Luis Suárez,1
+232,2017-03-01,2017,3,LaLiga,25.0,League Matchday,League,Home,FC Barcelona,Sporting Gijón,20170301_SportingGijó,6:1,6,1,Win,5,1,66,0,2nd Half,61-75,LW,Direct free kick,0,Unassisted,1
+233,2017-03-04,2017,3,LaLiga,26.0,League Matchday,League,Home,FC Barcelona,Celta de Vigo,20170304_CeltadeVigo,5:0,5,0,Win,2,0,40,0,1st Half,31-45,LW,Right-footed shot,0,Lionel Messi,1
+234,2017-03-08,2017,3,UEFA Champions League,,Round of 16,Continental / International,Home,FC Barcelona,Paris Saint-Germain,20170308_ParisSaintGe,6:1,6,1,Win,4,1,88,0,2nd Half,76-90,LW,Direct free kick,0,Unassisted,1
+235,2017-03-08,2017,3,UEFA Champions League,,Round of 16,Continental / International,Home,FC Barcelona,Paris Saint-Germain,20170308_ParisSaintGe,6:1,6,1,Win,5,1,90,1,2nd Half,76-90,LW,Penalty,1,Unassisted,1
+236,2017-04-02,2017,4,LaLiga,29.0,League Matchday,League,Away,FC Barcelona,Granada CF,20170402_GranadaCF,1:4,4,1,Win,4,1,90,1,2nd Half,76-90,LW,Left-footed shot,0,Paco Alcácer,1
+237,2017-05-06,2017,5,LaLiga,36.0,League Matchday,League,Home,FC Barcelona,Villarreal CF,20170506_VillarrealCF,4:1,4,1,Win,1,0,21,0,1st Half,16-30,LW,Left-footed shot,0,Unassisted,1
+238,2017-05-14,2017,5,LaLiga,37.0,League Matchday,League,Away,FC Barcelona,UD Las Palmas,20170514_UDLasPalmas,1:4,4,1,Win,1,0,25,0,1st Half,16-30,LW,Right-footed shot,0,Luis Suárez,1
+239,2017-05-14,2017,5,LaLiga,37.0,League Matchday,League,Away,FC Barcelona,UD Las Palmas,20170514_UDLasPalmas,1:4,4,1,Win,3,1,67,0,2nd Half,61-75,LW,Header,0,Ivan Rakitic,1
+240,2017-05-14,2017,5,LaLiga,37.0,League Matchday,League,Away,FC Barcelona,UD Las Palmas,20170514_UDLasPalmas,1:4,4,1,Win,4,1,71,0,2nd Half,61-75,LW,Right-footed shot,0,Jordi Alba,1
+241,2017-05-27,2017,5,Copa del Rey,,Final,Domestic Cup / Super Cup,Home,FC Barcelona,Deportivo Alavés,20170527_DeportivoAla,3:1,3,1,Win,2,1,45,0,1st Half,31-45,LW,Right-footed shot,0,André Gomes,1
+242,2017-08-13,2017,8,Ligue 1,2.0,League Matchday,League,Away,Paris Saint-Germain,EA Guingamp,20170813_EAGuingamp,0:3,3,0,Win,3,0,82,0,2nd Half,76-90,LW,Right-footed shot,0,Edinson Cavani,1
+243,2017-08-20,2017,8,Ligue 1,3.0,League Matchday,League,Home,Paris Saint-Germain,FC Toulouse,20170820_FCToulouse,6:2,6,2,Win,1,1,31,0,1st Half,31-45,LW,Right-footed shot,0,Unassisted,1
+244,2017-08-20,2017,8,Ligue 1,3.0,League Matchday,League,Home,Paris Saint-Germain,FC Toulouse,20170820_FCToulouse,6:2,6,2,Win,6,2,90,0,2nd Half,76-90,LW,Solo run,0,Unassisted,1
+245,2017-09-08,2017,9,Ligue 1,5.0,League Matchday,League,Away,Paris Saint-Germain,FC Metz,20170908_FCMetz,1:5,5,1,Win,3,1,69,0,2nd Half,61-75,LW,Long distance kick,0,Unassisted,1
+246,2017-09-12,2017,9,UEFA Champions League,,Group Stage,Continental / International,Away,Paris Saint-Germain,Celtic FC,20170912_CelticFC,0:5,5,0,Win,1,0,20,0,1st Half,16-30,LW,Right-footed shot,0,Adrien Rabiot,1
+247,2017-09-27,2017,9,UEFA Champions League,,Group Stage,Continental / International,Home,Paris Saint-Germain,Bayern Munich,20170927_BayernMunich,3:0,3,0,Win,3,0,63,0,2nd Half,61-75,LW,Tap-in,0,Unassisted,1
+248,2017-09-30,2017,9,Ligue 1,8.0,League Matchday,League,Home,Paris Saint-Germain,FC Girondins Bordeaux,20170930_FCGirondinsB,6:2,6,2,Win,1,0,5,0,1st Half,1-15,LW,Direct free kick,0,Unassisted,1
+249,2017-09-30,2017,9,Ligue 1,8.0,League Matchday,League,Home,Paris Saint-Germain,FC Girondins Bordeaux,20170930_FCGirondinsB,6:2,6,2,Win,4,1,40,0,1st Half,31-45,LW,Penalty,1,Unassisted,1
+250,2017-10-18,2017,10,UEFA Champions League,,Group Stage,Continental / International,Away,Paris Saint-Germain,RSC Anderlecht,20171018_RSCAnderlech,0:4,4,0,Win,3,0,66,0,2nd Half,61-75,LW,Direct free kick,0,Unassisted,1
+251,2017-10-22,2017,10,Ligue 1,10.0,League Matchday,League,Away,Paris Saint-Germain,Olympique Marseille,20171022_OlympiqueMar,2:2,2,2,Draw,1,1,33,0,1st Half,31-45,LW,Left-footed shot,0,Adrien Rabiot,1
+252,2017-10-31,2017,10,UEFA Champions League,,Group Stage,Continental / International,Home,Paris Saint-Germain,RSC Anderlecht,20171031_RSCAnderlech,5:0,5,0,Win,2,0,45,4,1st Half,31-45,LW,Right-footed shot,0,Julian Draxler,1
+253,2017-11-22,2017,11,UEFA Champions League,,Group Stage,Continental / International,Home,Paris Saint-Germain,Celtic FC,20171122_CelticFC,7:1,7,1,Win,1,1,9,0,1st Half,1-15,LW,Left-footed shot,0,Adrien Rabiot,1
+254,2017-11-22,2017,11,UEFA Champions League,,Group Stage,Continental / International,Home,Paris Saint-Germain,Celtic FC,20171122_CelticFC,7:1,7,1,Win,2,1,22,0,1st Half,16-30,LW,Left-footed shot,0,Marco Verratti,1
+255,2017-11-26,2017,11,Ligue 1,14.0,League Matchday,League,Away,Paris Saint-Germain,AS Monaco,20171126_ASMonaco,1:2,2,1,Win,2,0,52,0,2nd Half,46-60,LW,Penalty,1,Unassisted,1
+256,2017-11-29,2017,11,Ligue 1,15.0,League Matchday,League,Home,Paris Saint-Germain,ESTAC Troyes,20171129_ESTACTroyes,2:0,2,0,Win,1,0,73,0,2nd Half,61-75,LW,Left-footed shot,0,Unassisted,1
+257,2017-12-16,2017,12,Ligue 1,18.0,League Matchday,League,Away,Paris Saint-Germain,Stade Rennais FC,20171216_StadeRennais,1:4,4,1,Win,1,0,4,0,1st Half,1-15,LW,Tap-in,0,Kylian Mbappé,1
+258,2017-12-16,2017,12,Ligue 1,18.0,League Matchday,League,Away,Paris Saint-Germain,Stade Rennais FC,20171216_StadeRennais,1:4,4,1,Win,4,1,76,0,2nd Half,76-90,LW,Left-footed shot,0,Kylian Mbappé,1
+259,2018-01-07,2018,1,Coupe de France,,Fifth Round,Domestic Cup / Super Cup,Away,Paris Saint-Germain,Stade Rennais FC,20180107_StadeRennais,1:6,6,1,Win,2,0,17,0,1st Half,16-30,LW,Left-footed shot,0,Marco Verratti,1
+260,2018-01-07,2018,1,Coupe de France,,Fifth Round,Domestic Cup / Super Cup,Away,Paris Saint-Germain,Stade Rennais FC,20180107_StadeRennais,1:6,6,1,Win,4,0,43,0,1st Half,31-45,LW,Right-footed shot,0,Kylian Mbappé,1
+261,2018-01-10,2018,1,Coupe de la Ligue,,Quarter-Finals,Domestic Cup / Super Cup,Away,Paris Saint-Germain,Amiens SC,20180110_AmiensSC,0:2,2,0,Win,1,0,53,0,2nd Half,46-60,LW,Penalty,1,Unassisted,1
+262,2018-01-17,2018,1,Ligue 1,21.0,League Matchday,League,Home,Paris Saint-Germain,Dijon FCO,20180117_DijonFCO,8:0,8,0,Win,4,0,42,0,1st Half,31-45,LW,Direct free kick,0,Unassisted,1
+263,2018-01-17,2018,1,Ligue 1,21.0,League Matchday,League,Home,Paris Saint-Germain,Dijon FCO,20180117_DijonFCO,8:0,8,0,Win,5,0,57,0,2nd Half,46-60,LW,Left-footed shot,0,Unassisted,1
+264,2018-01-17,2018,1,Ligue 1,21.0,League Matchday,League,Home,Paris Saint-Germain,Dijon FCO,20180117_DijonFCO,8:0,8,0,Win,6,0,73,0,2nd Half,61-75,LW,Solo run,0,Unassisted,1
+265,2018-01-17,2018,1,Ligue 1,21.0,League Matchday,League,Home,Paris Saint-Germain,Dijon FCO,20180117_DijonFCO,8:0,8,0,Win,8,0,83,0,2nd Half,76-90,LW,Penalty,1,Unassisted,1
+266,2018-01-27,2018,1,Ligue 1,23.0,League Matchday,League,Home,Paris Saint-Germain,Montpellier HSC,20180127_MontpellierH,4:0,4,0,Win,2,0,40,0,1st Half,31-45,LW,Penalty,1,Unassisted,1
+267,2018-01-27,2018,1,Ligue 1,23.0,League Matchday,League,Home,Paris Saint-Germain,Montpellier HSC,20180127_MontpellierH,4:0,4,0,Win,4,0,82,0,2nd Half,76-90,LW,Left-footed shot,0,Edinson Cavani,1
+268,2018-02-03,2018,2,Ligue 1,24.0,League Matchday,League,Away,Paris Saint-Germain,LOSC Lille,20180203_LOSCLille,0:3,3,0,Win,2,0,77,0,2nd Half,76-90,LW,Direct free kick,0,Unassisted,1
+269,2018-02-17,2018,2,Ligue 1,26.0,League Matchday,League,Home,Paris Saint-Germain,RC Strasbourg Alsace,20180217_RCStrasbourg,5:2,5,2,Win,2,1,21,0,1st Half,16-30,LW,Right-footed shot,0,Unassisted,1
+270,2018-08-12,2018,8,Ligue 1,1.0,League Matchday,League,Home,Paris Saint-Germain,SM Caen,20180812_SMCaen,3:0,3,0,Win,1,0,10,0,1st Half,1-15,CF,Left-footed shot,0,Christopher Nkunku,1
+271,2018-08-18,2018,8,Ligue 1,2.0,League Matchday,League,Away,Paris Saint-Germain,EA Guingamp,20180818_EAGuingamp,1:3,3,1,Win,1,1,53,0,2nd Half,46-60,LW,Penalty,1,Unassisted,1
+272,2018-08-25,2018,8,Ligue 1,3.0,League Matchday,League,Home,Paris Saint-Germain,Angers SCO,20180825_AngersSCO,3:1,3,1,Win,3,1,66,0,2nd Half,61-75,AM,Left-footed shot,0,Kylian Mbappé,1
+273,2018-09-01,2018,9,Ligue 1,4.0,League Matchday,League,Away,Paris Saint-Germain,Nîmes Olympique,20180901_NîmesOlympiq,2:4,4,2,Win,1,0,36,0,1st Half,31-45,SS,Left-footed shot,0,Thomas Meunier,1
+274,2018-09-26,2018,9,Ligue 1,7.0,League Matchday,League,Home,Paris Saint-Germain,Stade Reims,20180926_StadeReims,4:1,4,1,Win,2,1,24,0,1st Half,16-30,SS,Penalty,1,Unassisted,1
+275,2018-09-29,2018,9,Ligue 1,8.0,League Matchday,League,Away,Paris Saint-Germain,OGC Nice,20180929_OGCNice,0:3,3,0,Win,1,0,22,0,1st Half,16-30,SS,Right-footed shot,0,Moussa Diaby,1
+276,2018-09-29,2018,9,Ligue 1,8.0,League Matchday,League,Away,Paris Saint-Germain,OGC Nice,20180929_OGCNice,0:3,3,0,Win,3,0,90,2,2nd Half,76-90,SS,Right-footed shot,0,Kylian Mbappé,1
+277,2018-10-03,2018,10,UEFA Champions League,,Group Stage,Continental / International,Home,Paris Saint-Germain,Red Star Belgrade,20181003_RedStarBelgr,6:1,6,1,Win,1,0,20,0,1st Half,16-30,SS,Direct free kick,0,Unassisted,1
+278,2018-10-03,2018,10,UEFA Champions League,,Group Stage,Continental / International,Home,Paris Saint-Germain,Red Star Belgrade,20181003_RedStarBelgr,6:1,6,1,Win,2,0,22,0,1st Half,16-30,SS,Left-footed shot,0,Kylian Mbappé,1
+279,2018-10-03,2018,10,UEFA Champions League,,Group Stage,Continental / International,Home,Paris Saint-Germain,Red Star Belgrade,20181003_RedStarBelgr,6:1,6,1,Win,6,1,81,0,2nd Half,76-90,SS,Direct free kick,0,Unassisted,1
+280,2018-10-07,2018,10,Ligue 1,9.0,League Matchday,League,Home,Paris Saint-Germain,Olympique Lyon,20181007_OlympiqueLyo,5:0,5,0,Win,1,0,9,0,1st Half,1-15,SS,Penalty,1,Unassisted,1
+281,2018-11-02,2018,11,Ligue 1,12.0,League Matchday,League,Home,Paris Saint-Germain,LOSC Lille,20181102_LOSCLille,2:1,2,1,Win,2,0,84,0,2nd Half,76-90,CF,Right-footed shot,0,Kylian Mbappé,1
+282,2018-11-11,2018,11,Ligue 1,13.0,League Matchday,League,Away,Paris Saint-Germain,AS Monaco,20181111_ASMonaco,0:4,4,0,Win,4,0,64,0,2nd Half,61-75,AM,Penalty,1,Unassisted,1
+283,2018-11-28,2018,11,UEFA Champions League,,Group Stage,Continental / International,Home,Paris Saint-Germain,Liverpool FC,20181128_LiverpoolFC,2:1,2,1,Win,2,0,37,0,1st Half,31-45,LW,Tap-in,0,Edinson Cavani,1
+284,2018-12-02,2018,12,Ligue 1,15.0,League Matchday,League,Away,Paris Saint-Germain,FC Girondins Bordeaux,20181202_FCGirondinsB,2:2,2,2,Draw,1,0,34,0,1st Half,31-45,LW,Right-footed shot,0,Dani Alves,1
+285,2018-12-11,2018,12,UEFA Champions League,,Group Stage,Continental / International,Away,Paris Saint-Germain,Red Star Belgrade,20181211_RedStarBelgr,1:4,4,1,Win,2,0,40,0,1st Half,31-45,LW,Right-footed shot,0,Kylian Mbappé,1
+286,2019-01-06,2019,1,Coupe de France,,Fifth Round,Domestic Cup / Super Cup,Away,Paris Saint-Germain,GSI Pontivy,20190106_GSIPontivy,0:4,4,0,Win,2,0,70,0,2nd Half,61-75,SS,Right-footed shot,0,Moussa Diaby,1
+287,2019-01-09,2019,1,Coupe de la Ligue,,Quarter-Finals,Domestic Cup / Super Cup,Home,Paris Saint-Germain,EA Guingamp,20190109_EAGuingamp,1:2,1,2,Loss,1,0,63,0,2nd Half,61-75,SS,Header,0,Thomas Meunier,1
+288,2019-01-19,2019,1,Ligue 1,21.0,League Matchday,League,Home,Paris Saint-Germain,EA Guingamp,20190119_EAGuingamp,9:0,9,0,Win,1,0,11,0,1st Half,1-15,LW,Right-footed shot,0,Dani Alves,1
+289,2019-01-19,2019,1,Ligue 1,21.0,League Matchday,League,Home,Paris Saint-Germain,EA Guingamp,20190119_EAGuingamp,9:0,9,0,Win,6,0,68,0,2nd Half,61-75,LW,Right-footed shot,0,Kylian Mbappé,1
+290,2019-04-27,2019,4,Coupe de France,,Final,Domestic Cup / Super Cup,Away,Paris Saint-Germain,Stade Rennais FC,20190427_StadeRennais,8:7,7,8,Loss,2,0,21,0,1st Half,16-30,LW,Right-footed shot,0,Ángel Di María,1
+291,2019-05-04,2019,5,Ligue 1,35.0,League Matchday,League,Home,Paris Saint-Germain,OGC Nice,20190504_OGCNice,1:1,1,1,Draw,1,1,60,0,2nd Half,46-60,SS,Penalty,1,Unassisted,1
+292,2019-05-11,2019,5,Ligue 1,36.0,League Matchday,League,Away,Paris Saint-Germain,Angers SCO,20190511_AngersSCO,1:2,2,1,Win,1,0,20,0,1st Half,16-30,SS,Header,0,Dani Alves,1
+293,2019-09-14,2019,9,Ligue 1,5.0,League Matchday,League,Home,Paris Saint-Germain,RC Strasbourg Alsace,20190914_RCStrasbourg,1:0,1,0,Win,1,0,90,2,2nd Half,76-90,SS,Left-footed shot,0,Abdou Diallo,1
+294,2019-09-22,2019,9,Ligue 1,6.0,League Matchday,League,Away,Paris Saint-Germain,Olympique Lyon,20190922_OlympiqueLyo,0:1,1,0,Win,1,0,87,0,2nd Half,76-90,LW,Left-footed shot,0,Ángel Di María,1
+295,2019-09-28,2019,9,Ligue 1,8.0,League Matchday,League,Away,Paris Saint-Germain,FC Girondins Bordeaux,20190928_FCGirondinsB,0:1,1,0,Win,1,0,70,0,2nd Half,61-75,CF,Right-footed shot,0,Kylian Mbappé,1
+296,2019-10-05,2019,10,Ligue 1,9.0,League Matchday,League,Home,Paris Saint-Germain,Angers SCO,20191005_AngersSCO,4:0,4,0,Win,4,0,90,0,2nd Half,76-90,LW,Left-footed shot,0,Eric-Maxim Choupo-Moting,1
+297,2019-12-04,2019,12,Ligue 1,16.0,League Matchday,League,Home,Paris Saint-Germain,FC Nantes,20191204_FCNantes,2:0,2,0,Win,2,0,85,0,2nd Half,76-90,LW,Penalty,1,Unassisted,1
+298,2019-12-07,2019,12,Ligue 1,17.0,League Matchday,League,Away,Paris Saint-Germain,Montpellier HSC,20191207_MontpellierH,1:3,3,1,Win,1,1,74,0,2nd Half,61-75,LW,Direct free kick,0,Unassisted,1
+299,2019-12-11,2019,12,UEFA Champions League,,Group Stage,Continental / International,Home,Paris Saint-Germain,Galatasaray,20191211_Galatasaray,5:0,5,0,Win,3,0,47,0,2nd Half,46-60,LW,Left-footed shot,0,Kylian Mbappé,1
+300,2019-12-15,2019,12,Ligue 1,18.0,League Matchday,League,Away,Paris Saint-Germain,AS Saint-Étienne,20191215_ASSaintÉtien,0:4,4,0,Win,1,0,9,0,1st Half,1-15,LW,Deflected shot on goal,0,Leandro Paredes,1
+301,2019-12-21,2019,12,Ligue 1,19.0,League Matchday,League,Home,Paris Saint-Germain,Amiens SC,20191221_AmiensSC,4:1,4,1,Win,2,0,46,0,2nd Half,46-60,LW,Right-footed shot,0,Mauro Icardi,1
+302,2020-01-08,2020,1,Coupe de la Ligue,,Quarter-Finals,Domestic Cup / Super Cup,Home,Paris Saint-Germain,AS Saint-Étienne,20200108_ASSaintÉtien,6:1,6,1,Win,2,0,39,0,1st Half,31-45,LW,Right-footed shot,0,Ángel Di María,1
+303,2020-01-12,2020,1,Ligue 1,20.0,League Matchday,League,Home,Paris Saint-Germain,AS Monaco,20200112_ASMonaco,3:3,3,3,Draw,1,0,3,0,1st Half,1-15,LW,Left-footed shot,0,Marco Verratti,1
+304,2020-01-12,2020,1,Ligue 1,20.0,League Matchday,League,Home,Paris Saint-Germain,AS Monaco,20200112_ASMonaco,3:3,3,3,Draw,3,2,42,0,1st Half,31-45,LW,Penalty,1,Unassisted,1
+305,2020-01-15,2020,1,Ligue 1,15.0,League Matchday,League,Away,Paris Saint-Germain,AS Monaco,20200115_ASMonaco,1:4,4,1,Win,2,0,45,2,1st Half,31-45,LW,Penalty,1,Unassisted,1
+306,2020-01-26,2020,1,Ligue 1,21.0,League Matchday,League,Away,Paris Saint-Germain,LOSC Lille,20200126_LOSCLille,0:2,2,0,Win,1,0,28,0,1st Half,16-30,LW,Right-footed shot,0,Marco Verratti,1
+307,2020-01-26,2020,1,Ligue 1,21.0,League Matchday,League,Away,Paris Saint-Germain,LOSC Lille,20200126_LOSCLille,0:2,2,0,Win,2,0,52,0,2nd Half,46-60,LW,Penalty,1,Unassisted,1
+308,2020-02-18,2020,2,UEFA Champions League,,Round of 16,Continental / International,Away,Paris Saint-Germain,Borussia Dortmund,20200218_BorussiaDort,2:1,1,2,Loss,1,1,75,0,2nd Half,61-75,LW,Left-footed shot,0,Kylian Mbappé,1
+309,2020-03-04,2020,3,Coupe de France,,Semi-Finals,Domestic Cup / Super Cup,Away,Paris Saint-Germain,Olympique Lyon,20200304_OlympiqueLyo,1:5,5,1,Win,2,1,64,0,2nd Half,61-75,LW,Penalty,1,Unassisted,1
+310,2020-03-11,2020,3,UEFA Champions League,,Round of 16,Continental / International,Home,Paris Saint-Germain,Borussia Dortmund,20200311_BorussiaDort,2:0,2,0,Win,1,0,28,0,1st Half,16-30,LW,Header,0,Ángel Di María,1
+311,2020-07-24,2020,7,Coupe de France,,Final,Domestic Cup / Super Cup,Home,Paris Saint-Germain,AS Saint-Étienne,20200724_ASSaintÉtien,1:0,1,0,Win,1,0,14,0,1st Half,1-15,LW,Left-footed shot,0,Unassisted,1
+312,2020-10-02,2020,10,Ligue 1,6.0,League Matchday,League,Home,Paris Saint-Germain,Angers SCO,20201002_AngersSCO,6:1,6,1,Win,2,0,36,0,1st Half,31-45,LW,Left-footed shot,0,Kylian Mbappé,1
+313,2020-10-02,2020,10,Ligue 1,6.0,League Matchday,League,Home,Paris Saint-Germain,Angers SCO,20201002_AngersSCO,6:1,6,1,Win,3,0,47,0,2nd Half,46-60,LW,Right-footed shot,0,Unassisted,1
+314,2020-11-24,2020,11,UEFA Champions League,,Group Stage,Continental / International,Home,Paris Saint-Germain,RB Leipzig,20201124_RBLeipzig,1:0,1,0,Win,1,0,11,0,1st Half,1-15,CF,Penalty,1,Unassisted,1
+315,2020-11-28,2020,11,Ligue 1,12.0,League Matchday,League,Home,Paris Saint-Germain,FC Girondins Bordeaux,20201128_FCGirondinsB,2:2,2,2,Draw,1,1,27,0,1st Half,16-30,LW,Penalty,1,Unassisted,1
+316,2020-12-02,2020,12,UEFA Champions League,,Group Stage,Continental / International,Away,Paris Saint-Germain,Manchester United,20201202_ManchesterUn,1:3,3,1,Win,1,0,6,0,1st Half,1-15,LW,Right-footed shot,0,Unassisted,1
+317,2020-12-02,2020,12,UEFA Champions League,,Group Stage,Continental / International,Away,Paris Saint-Germain,Manchester United,20201202_ManchesterUn,1:3,3,1,Win,3,1,90,1,2nd Half,76-90,LW,Left-footed shot,0,Rafinha,1
+318,2020-12-09,2020,12,UEFA Champions League,,Group Stage,Continental / International,Home,Paris Saint-Germain,Basaksehir FK,20201209_BasaksehirFK,5:1,5,1,Win,1,0,21,0,1st Half,16-30,SS,Right-footed shot,0,Marco Verratti,1
+319,2020-12-09,2020,12,UEFA Champions League,,Group Stage,Continental / International,Home,Paris Saint-Germain,Basaksehir FK,20201209_BasaksehirFK,5:1,5,1,Win,2,0,37,0,1st Half,31-45,SS,Counter attack goal,0,Kylian Mbappé,1
+320,2020-12-09,2020,12,UEFA Champions League,,Group Stage,Continental / International,Home,Paris Saint-Germain,Basaksehir FK,20201209_BasaksehirFK,5:1,5,1,Win,4,0,50,0,2nd Half,46-60,SS,Right-footed shot,0,Ángel Di María,1
+321,2021-01-13,2021,1,Trophée des Champions,,Final,Domestic Cup / Super Cup,Home,Paris Saint-Germain,Olympique Marseille,20210113_OlympiqueMar,2:1,2,1,Win,2,0,85,0,2nd Half,76-90,LW,Penalty,1,Unassisted,1
+322,2021-01-22,2021,1,Ligue 1,21.0,League Matchday,League,Home,Paris Saint-Germain,Montpellier HSC,20210122_MontpellierH,4:0,4,0,Win,2,0,60,0,2nd Half,46-60,LW,Right-footed shot,0,Kylian Mbappé,1
+323,2021-01-31,2021,1,Ligue 1,22.0,League Matchday,League,Away,Paris Saint-Germain,FC Lorient,20210131_FCLorient,3:2,2,3,Loss,1,1,45,0,1st Half,31-45,LW,Penalty,1,Unassisted,1
+324,2021-01-31,2021,1,Ligue 1,22.0,League Matchday,League,Away,Paris Saint-Germain,FC Lorient,20210131_FCLorient,3:2,2,3,Loss,2,1,58,0,2nd Half,46-60,LW,Penalty,1,Unassisted,1
+325,2021-04-21,2021,4,Coupe de France,,Quarter-Finals,Domestic Cup / Super Cup,Home,Paris Saint-Germain,Angers SCO,20210421_AngersSCO,5:0,5,0,Win,3,0,65,0,2nd Half,61-75,SS,Header,0,Julian Draxler,1
+326,2021-05-01,2021,5,Ligue 1,35.0,League Matchday,League,Home,Paris Saint-Germain,RC Lens,20210501_RCLens,2:1,2,1,Win,1,0,33,0,1st Half,31-45,LW,Right-footed shot,0,Julian Draxler,1
+327,2021-05-09,2021,5,Ligue 1,36.0,League Matchday,League,Away,Paris Saint-Germain,Stade Rennais FC,20210509_StadeRennais,1:1,1,1,Draw,1,0,45,6,1st Half,31-45,LW,Penalty,1,Unassisted,1
+328,2021-05-16,2021,5,Ligue 1,37.0,League Matchday,League,Home,Paris Saint-Germain,Stade Reims,20210516_StadeReims,4:0,4,0,Win,1,0,13,0,1st Half,1-15,SS,Penalty,1,Unassisted,1
+329,2021-09-19,2021,9,Ligue 1,6.0,League Matchday,League,Home,Paris Saint-Germain,Olympique Lyon,20210919_OlympiqueLyo,2:1,2,1,Win,1,1,66,0,2nd Half,61-75,LW,Penalty,1,Unassisted,1
+330,2021-11-06,2021,11,Ligue 1,13.0,League Matchday,League,Away,Paris Saint-Germain,FC Girondins Bordeaux,20211106_FCGirondinsB,2:3,3,2,Win,1,0,26,0,1st Half,16-30,LW,Right-footed shot,0,Kylian Mbappé,1
+331,2021-11-06,2021,11,Ligue 1,13.0,League Matchday,League,Away,Paris Saint-Germain,FC Girondins Bordeaux,20211106_FCGirondinsB,2:3,3,2,Win,2,0,43,0,1st Half,31-45,LW,Right-footed shot,0,Kylian Mbappé,1
+332,2022-02-19,2022,2,Ligue 1,25.0,League Matchday,League,Away,Paris Saint-Germain,FC Nantes,20220219_FCNantes,3:1,1,3,Loss,1,3,47,0,2nd Half,46-60,LW,Right-footed shot,0,Lionel Messi,1
+333,2022-03-13,2022,3,Ligue 1,28.0,League Matchday,League,Home,Paris Saint-Germain,FC Girondins Bordeaux,20220313_FCGirondinsB,3:0,3,0,Win,2,0,52,0,2nd Half,46-60,LW,Right-footed shot,0,Achraf Hakimi,1
+334,2022-04-03,2022,4,Ligue 1,30.0,League Matchday,League,Home,Paris Saint-Germain,FC Lorient,20220403_FCLorient,5:1,5,1,Win,1,0,12,0,1st Half,1-15,LW,Right-footed shot,0,Kylian Mbappé,1
+335,2022-04-03,2022,4,Ligue 1,30.0,League Matchday,League,Home,Paris Saint-Germain,FC Lorient,20220403_FCLorient,5:1,5,1,Win,5,1,90,0,2nd Half,76-90,LW,Right-footed shot,0,Kylian Mbappé,1
+336,2022-04-09,2022,4,Ligue 1,31.0,League Matchday,League,Away,Paris Saint-Germain,Clermont Foot 63,20220409_ClermontFoot,1:6,6,1,Win,1,0,6,0,1st Half,1-15,LW,Left-footed shot,0,Lionel Messi,1
+337,2022-04-09,2022,4,Ligue 1,31.0,League Matchday,League,Away,Paris Saint-Germain,Clermont Foot 63,20220409_ClermontFoot,1:6,6,1,Win,3,1,71,0,2nd Half,61-75,LW,Penalty,1,Unassisted,1
+338,2022-04-09,2022,4,Ligue 1,31.0,League Matchday,League,Away,Paris Saint-Germain,Clermont Foot 63,20220409_ClermontFoot,1:6,6,1,Win,6,1,83,0,2nd Half,76-90,LW,Left-footed shot,0,Kylian Mbappé,1
+339,2022-04-17,2022,4,Ligue 1,32.0,League Matchday,League,Home,Paris Saint-Germain,Olympique Marseille,20220417_OlympiqueMar,2:1,2,1,Win,1,0,12,0,1st Half,1-15,LW,Left-footed shot,0,Marco Verratti,1
+340,2022-05-08,2022,5,Ligue 1,36.0,League Matchday,League,Home,Paris Saint-Germain,ESTAC Troyes,20220508_ESTACTroyes,2:2,2,2,Draw,2,0,25,0,1st Half,16-30,LW,Penalty,1,Unassisted,1
+341,2022-05-21,2022,5,Ligue 1,38.0,League Matchday,League,Home,Paris Saint-Germain,FC Metz,20220521_FCMetz,5:0,5,0,Win,3,0,31,0,1st Half,31-45,LW,Right-footed shot,0,Unassisted,1
+342,2022-07-31,2022,7,Trophée des Champions,,Final,Domestic Cup / Super Cup,Home,Paris Saint-Germain,FC Nantes,20220731_FCNantes,4:0,4,0,Win,2,0,45,5,1st Half,31-45,LW,Direct free kick,0,Unassisted,1
+343,2022-07-31,2022,7,Trophée des Champions,,Final,Domestic Cup / Super Cup,Home,Paris Saint-Germain,FC Nantes,20220731_FCNantes,4:0,4,0,Win,4,0,82,0,2nd Half,76-90,LW,Penalty,1,Unassisted,1
+344,2022-08-06,2022,8,Ligue 1,1.0,League Matchday,League,Away,Paris Saint-Germain,Clermont Foot 63,20220806_ClermontFoot,0:5,5,0,Win,1,0,9,0,1st Half,1-15,LW,Right-footed shot,0,Lionel Messi,1
+345,2022-08-13,2022,8,Ligue 1,2.0,League Matchday,League,Home,Paris Saint-Germain,Montpellier HSC,20220813_MontpellierH,5:2,5,2,Win,2,0,43,0,1st Half,31-45,SS,Penalty,1,Unassisted,1
+346,2022-08-13,2022,8,Ligue 1,2.0,League Matchday,League,Home,Paris Saint-Germain,Montpellier HSC,20220813_MontpellierH,5:2,5,2,Win,3,0,51,0,2nd Half,46-60,SS,Header,0,Unassisted,1
+347,2022-08-21,2022,8,Ligue 1,3.0,League Matchday,League,Away,Paris Saint-Germain,LOSC Lille,20220821_LOSCLille,1:7,7,1,Win,4,0,43,0,1st Half,31-45,LW,Right-footed shot,0,Unassisted,1
+348,2022-08-21,2022,8,Ligue 1,3.0,League Matchday,League,Away,Paris Saint-Germain,LOSC Lille,20220821_LOSCLille,1:7,7,1,Win,5,0,52,0,2nd Half,46-60,LW,Right-footed shot,0,Achraf Hakimi,1
+349,2022-08-28,2022,8,Ligue 1,4.0,League Matchday,League,Home,Paris Saint-Germain,AS Monaco,20220828_ASMonaco,1:1,1,1,Draw,1,1,70,0,2nd Half,61-75,LW,Penalty,1,Unassisted,1
+350,2022-08-31,2022,8,Ligue 1,5.0,League Matchday,League,Away,Paris Saint-Germain,FC Toulouse,20220831_FCToulouse,0:3,3,0,Win,1,0,37,0,1st Half,31-45,LW,Right-footed shot,0,Lionel Messi,1
+351,2022-09-10,2022,9,Ligue 1,7.0,League Matchday,League,Home,Paris Saint-Germain,Stade Brestois 29,20220910_StadeBrestoi,1:0,1,0,Win,1,0,30,0,1st Half,16-30,SS,Left-footed shot,0,Lionel Messi,1
+352,2022-09-14,2022,9,UEFA Champions League,,Group Stage,Continental / International,Away,Paris Saint-Germain,Maccabi Haifa,20220914_MaccabiHaifa,1:3,3,1,Win,3,1,88,0,2nd Half,76-90,LW,Left-footed shot,0,Marco Verratti,1
+353,2022-10-16,2022,10,Ligue 1,11.0,League Matchday,League,Home,Paris Saint-Germain,Olympique Marseille,20221016_OlympiqueMar,1:0,1,0,Win,1,0,45,2,1st Half,31-45,AM,Right-footed shot,0,Kylian Mbappé,1
+354,2022-10-25,2022,10,UEFA Champions League,,Group Stage,Continental / International,Home,Paris Saint-Germain,Maccabi Haifa,20221025_MaccabiHaifa,7:2,7,2,Win,3,0,35,0,1st Half,31-45,AM,Right-footed shot,0,Lionel Messi,1
+355,2022-10-29,2022,10,Ligue 1,13.0,League Matchday,League,Home,Paris Saint-Germain,ESTAC Troyes,20221029_ESTACTroyes,4:3,4,3,Win,3,2,62,0,2nd Half,61-75,LW,Right-footed shot,0,Lionel Messi,1
+356,2022-11-06,2022,11,Ligue 1,14.0,League Matchday,League,Away,Paris Saint-Germain,FC Lorient,20221106_FCLorient,1:2,2,1,Win,1,0,9,0,1st Half,1-15,AM,Left-footed shot,0,Hugo Ekitiké,1
+357,2023-01-23,2023,1,Coupe de France,,Sixth Round,Domestic Cup / Super Cup,Away,Paris Saint-Germain,US Pays de Cassel,20230123_USPaysdeCass,0:7,7,0,Win,2,0,33,0,1st Half,31-45,LW,Left-footed shot,0,Kylian Mbappé,1
+358,2023-01-29,2023,1,Ligue 1,20.0,League Matchday,League,Home,Paris Saint-Germain,Stade Reims,20230129_StadeReims,1:1,1,1,Draw,1,0,51,0,2nd Half,46-60,LW,Left-footed shot,0,Juan Bernat,1
+359,2023-02-19,2023,2,Ligue 1,24.0,League Matchday,League,Home,Paris Saint-Germain,LOSC Lille,20230219_LOSCLille,4:3,4,3,Win,2,0,17,0,1st Half,16-30,AM,Right-footed shot,0,Vitinha,1
+360,2023-10-03,2023,10,AFC Champions League,,Group Stage,Continental / International,Away,Al-Hilal SFC,FC Nassaji Mazandaran,20231003_FCNassajiMaz,0:3,3,0,Win,2,0,58,0,2nd Half,46-60,AM,Left-footed shot,0,Nasser Al-Dawsari,1
+361,2025-02-17,2025,2,Campeonato Paulista,10.0,League Matchday,State League,Home,Santos FC,EC Água Santa (SP),20250217_ECÁguaSantaS,3:1,3,1,Win,1,0,14,0,1st Half,1-15,AM,Penalty,1,Unassisted,1
+362,2025-02-23,2025,2,Campeonato Paulista,12.0,League Matchday,State League,Away,Santos FC,AA Internacional de Limeira,20250223_AAInternacio,0:3,3,0,Win,2,0,27,0,1st Half,16-30,AM,Direct corner,0,Unassisted,1
+363,2025-03-03,2025,3,Campeonato Paulista,,Quarter-Finals,State League,Home,Santos FC,Red Bull Bragantino,20250303_RedBullBraga,2:0,2,0,Win,1,0,9,0,1st Half,1-15,AM,Direct free kick,0,Unassisted,1
+364,2025-07-17,2025,7,Série A,14.0,League Matchday,League,Home,Santos FC,CR Flamengo,20250717_CRFlamengo,1:0,1,0,Win,1,0,84,0,2nd Half,76-90,AM,Counter attack goal,0,Guilherme,1
+365,2025-08-05,2025,8,Série A,18.0,League Matchday,League,Home,Santos FC,Esporte Clube Juventude,20250805_EsporteClube,3:1,3,1,Win,1,0,37,0,1st Half,31-45,AM,Left-footed shot,0,Unassisted,1
+366,2025-08-05,2025,8,Série A,18.0,League Matchday,League,Home,Santos FC,Esporte Clube Juventude,20250805_EsporteClube,3:1,3,1,Win,3,1,80,0,2nd Half,76-90,AM,Penalty,1,Unassisted,1
+367,2025-11-20,2025,11,Série A,34.0,League Matchday,League,Home,Santos FC,Mirassol Futebol Clube (SP),20251120_MirassolFute,1:1,1,1,Draw,1,0,4,0,1st Half,1-15,AM,Counter attack goal,0,Lautaro Díaz,1
+368,2025-11-29,2025,11,Série A,36.0,League Matchday,League,Home,Santos FC,Sport Club do Recife,20251129_SportClubdoR,3:0,3,0,Win,1,0,25,0,1st Half,16-30,AM,Counter attack goal,0,Guilherme,1
+369,2025-12-03,2025,12,Série A,37.0,League Matchday,League,Away,Santos FC,Esporte Clube Juventude,20251203_EsporteClube,0:3,3,0,Win,1,0,56,0,2nd Half,46-60,AM,Right-footed shot,0,Guilherme,1
+370,2025-12-03,2025,12,Série A,37.0,League Matchday,League,Away,Santos FC,Esporte Clube Juventude,20251203_EsporteClube,0:3,3,0,Win,2,0,65,0,2nd Half,61-75,AM,Counter attack goal,0,Igor Vinícius,1
+371,2025-12-03,2025,12,Série A,37.0,League Matchday,League,Away,Santos FC,Esporte Clube Juventude,20251203_EsporteClube,0:3,3,0,Win,3,0,73,0,2nd Half,61-75,AM,Penalty,1,Unassisted,1
+372,2026-02-26,2026,2,Série A,4.0,League Matchday,League,Home,Santos FC,Clube de Regatas Vasco da Gama,20260226_ClubedeRegat,2:1,2,1,Win,1,0,25,0,1st Half,16-30,AM,Counter attack goal,0,Moisés,1
+373,2026-02-26,2026,2,Série A,4.0,League Matchday,League,Home,Santos FC,Clube de Regatas Vasco da Gama,20260226_ClubedeRegat,2:1,2,1,Win,2,1,61,0,2nd Half,61-75,AM,Left-footed shot,0,Unassisted,1
+374,2026-03-19,2026,3,Série A,7.0,League Matchday,League,Home,Santos FC,Sport Club Internacional,20260319_SportClubInt,1:2,1,2,Loss,1,1,56,0,2nd Half,46-60,AM,Penalty,1,Unassisted,1
+375,2026-04-15,2026,4,Copa Sudamericana,,Group Stage,Continental / International,Home,Santos FC,Recoleta FC,20260415_RecoletaFC,1:1,1,1,Draw,1,0,4,0,1st Half,1-15,AM,Counter attack goal,0,Gabriel Barbosa,1
+376,2026-05-06,2026,5,Copa Sudamericana,,Group Stage,Continental / International,Away,Santos FC,Recoleta FC,20260506_RecoletaFC,1:1,1,1,Draw,1,0,41,0,1st Half,31-45,AM,Right-footed shot,0,Benjamín Rollheiser,1
+377,2026-05-10,2026,5,Série A,15.0,League Matchday,League,Home,Santos FC,Red Bull Bragantino,20260510_RedBullBraga,2:0,2,0,Win,1,0,45,5,1st Half,31-45,AM,Counter attack goal,0,Gabriel Bontempo,1
